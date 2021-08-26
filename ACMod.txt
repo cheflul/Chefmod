@@ -1,0 +1,30 @@
+ACMod - Azura's Coast Fixed
+This mod aims to fix as many visual and placement errors as possible in Azura's Coast Region.
+Due to terrain edits, compatibility with other landscape altering mods (islands, overhauls) won't be perfect. Any mods altering the landscape of an Azura's Coast Region cell should be loaded after ACMod, otherwise the (near) vanilla terrain will be used by TES3.
+
+Full Changelog:
+7,-14
+	Removed 5 menhirs beneath the terrain
+	Raised a creature spawner from beneath the terrain
+	Made crate bleed into terrain less
+8,-13 (Landscape edits)
+	Some terrain spikes smoothed out
+	Jagged terrain patch (east cell border, on sand) smoothed
+	Vertex shaded under 1 rock
+	1 texture seam (northeast border) painted over
+	Emperor Parasol moved further out of a rock
+	2 Marshmarrow moved (bleeding through neighbor)
+	3 Saltrice raised (sunk really low)
+	1 barnacle rotated to cover bottom faces
+8,-12 (Landscape edits)
+	2 texture seams covered with menhirs (southwest island)
+	3 underwater jagged terrain spots smoothed
+	Raised 2 kreshweeds (bleeding through rock/podbud)
+	Terrain smoothing on the northwest beach
+	1 floating Kreshweed lowered
+	7 texture seams (north ruin entrance, central ruin) painted over
+	1 stone flower moved out of kreshweed (bleeding)
+	Texture seam covered by rock (east border, north of ex_dae_ruin_01)
+	Emperor Parason raised (bleeding through wall)
+	Shaded a bit more around ruin entrance
+8,-11
