@@ -27,4 +27,9 @@ Full Changelog:
 	Texture seam covered by rock (east border, north of ex_dae_ruin_01)
 	Emperor Parason raised (bleeding through wall)
 	Shaded a bit more around ruin entrance
-8,-11
+8,-11 (Landscape edits)
+	Jagged terrain in the southwest of the cell smoothed
+	Lowered 1 floating black lichen (northwest corner)
+	Moved 1 Gold Kanet (bleeding into stoneflower)
+	Moved 1 Stoneflower (bleeding into many flowers)
+	Jagged terrain on eastern island smoothed
