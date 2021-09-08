@@ -4,32 +4,64 @@ Due to terrain edits, compatibility with other landscape altering mods (islands,
 
 Full Changelog:
 7,-14
-	Removed 5 menhirs beneath the terrain
+	Removed menhirs submerged beneath the terrain x5
 	Raised a creature spawner from beneath the terrain
 	Made crate bleed into terrain less
+7,-10 (Landscape edits)
+	Smoothed terrain on east border
+	Changed a mudflat texture to sand to clear a texture seam
 8,-13 (Landscape edits)
 	Some terrain spikes smoothed out
-	Jagged terrain patch (east cell border, on sand) smoothed
+	Jagged terrain patch on the east cell border sand smoothed
 	Vertex shaded under 1 rock
-	1 texture seam (northeast border) painted over
+	Texture seam on the northeast border painted over
 	Emperor Parasol moved further out of a rock
-	2 Marshmarrow moved (bleeding through neighbor)
-	3 Saltrice raised (sunk really low)
-	1 barnacle rotated to cover bottom faces
-8,-12 (Landscape edits)
-	2 texture seams covered with menhirs (southwest island)
-	3 underwater jagged terrain spots smoothed
-	Raised 2 kreshweeds (bleeding through rock/podbud)
+	Marshmarrow spread for bleeding together x2
+	Overbled saltrice raised up from terrain x3
+	Barnacle rotated to cover bottom faces
+Bal Fell 8,-12 (Landscape edits)
+	Texture seam covered with menhir on the southwest island x2
+	Underwater jagged terrain spots smoothed x3
+	Raised kreshweed for bleeding through another object x2
 	Terrain smoothing on the northwest beach
-	1 floating Kreshweed lowered
-	7 texture seams (north ruin entrance, central ruin) painted over
-	1 stone flower moved out of kreshweed (bleeding)
-	Texture seam covered by rock (east border, north of ex_dae_ruin_01)
-	Emperor Parason raised (bleeding through wall)
+	Floating Kreshweed lowered
+	Texture seams in the ruin painted over x7
+	Bleeding stoneflower moved out of kreshweed
+	Texture seam covered by rock on the east border, north of ex_dae_ruin_01
+	Emperor Parason raised for bleeding through a wall
 	Shaded a bit more around ruin entrance
 8,-11 (Landscape edits)
 	Jagged terrain in the southwest of the cell smoothed
-	Lowered 1 floating black lichen (northwest corner)
-	Moved 1 Gold Kanet (bleeding into stoneflower)
-	Moved 1 Stoneflower (bleeding into many flowers)
+	Lowered floating black lichen in the northwest corner
+	Moved Gold Kanet that was bleeding into a stoneflower
+	Moved Stoneflower that was bleeding into surrounding flowers
 	Jagged terrain on eastern island smoothed
+Mzahnch Ruin 8,-10 (Landscape edits)
+	Moved kreshweed out of a rock x3
+	Raised Gold Kanet submerged in the terrain
+	Moved kreshweed out of another kreshweed x2
+	Moved kreshweed out of a podbud
+	Smoothed terrain on the southern island's beach
+	Raised kreshweed from bleeding through the sand
+	Smoothed some sand near the south side of the main island
+	Raised a bit of terrain to make the interior entrance not float
+	Smoothed terrain near the interior entrance
+	Smoothed terrain by the flat top rocks in the northwest
+	Smoothed terrain by the northwest tower
+	Smoothed terrain by west border menhirs
+	Changed mudflat texture to sand to clear a texture seam
+	Changed darkstone_01 texture to darkstone_02 to clear a texture seam x3
+	Changed darkstone_02 to darkstone_grass to clear a texture seam x4
+	Smoothed a bit of terrain near a ballista
+	Rotated ballista feet so it could rest properly
+	Cleared terrain spike near 2nd ballista
+	Smoothed terrain on east border
+8,-9 (Landscape edits)
+	Smoothed terrain on south border
+	Changed darkstone_01 texture to darkstone_02 to clear a texture seam x3
+	Jagged terrain on central island smoothed
+	Changed sand to darkstone_02 to clear texture seam
+	Floating rock lowered
+	Darkstone_01 changed to darkstone_02 to clear texture seam
+	Raised kelp that was sunk too deep
+9,-14
