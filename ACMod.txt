@@ -1,6 +1,6 @@
 ACMod - Azura's Coast Fixed
 This mod aims to fix as many visual and placement errors as possible in Azura's Coast Region.
-Due to terrain edits, compatibility with other landscape altering mods (islands, overhauls) won't be perfect. Any mods altering the landscape of an Azura's Coast Region cell should be loaded after ACMod, otherwise the (near) vanilla terrain will be used by TES3.
+Due to terrain edits, compatibility with other landscape altering mods (islands, overhauls) won't be perfect. Any mods altering the landscape of an Azura's Coast Region cell should be loaded after ACMod, otherwise the game will load the terrain from this mod. You could also run the risk of objects edited by this mod appearing in awkward positions in the hypothetical conflicting mods. I tried to avoid touching terrain at the border of cells, but it wasn't always possible.
 
 Full Changelog:
 7,-14
@@ -64,4 +64,29 @@ Mzahnch Ruin 8,-10 (Landscape edits)
 	Floating rock lowered
 	Darkstone_01 changed to darkstone_02 to clear texture seam
 	Raised kelp that was sunk too deep
-9,-14
+9,-14 (Landscape edits)
+	Jagged terrain in southeast corner smoothed
+	h2o_all_lev-2 moved out of menhir
+	Moved kelp out of other kelp
+	ex_shore_cliffracer_lev+0 moved out of menhir
+	Jagged terrain on island smoothed
+9,-13 (Landscape edits)
+	Smoothed jagged terrain on the southern island
+	Smoothed jagged terrain on the northwest island's beach
+	Raised kelp to fix leaves bleeding through terrain
+	Changed darkstone_01 to darkstone_02 to clear texture seam
+	Moved a rock over to cover a texture seam
+	Jagged terrain on hilltop smoothed
+Bal Fell 9,-12 (Landscape edits)
+	Jagged terrain on south border smoothed
+	barnacles rotated to hide bottom faces
+	Jagged terrain on hill smoothed
+	Saltrice bleeding through other saltrice moved x2
+	Marshmarrow bleeding through saltrice moved x3
+	Kreshweed bleeding through emp parasol moved
+	AC tree bleeding through Daedric wall moved
+	Scrubruin texture changed to scrub to clear a texture seam
+	Kreshweed bleeding through Daedric wall moved
+	Jagged terrain in ruin smoothed x2
+9,-11
+	
