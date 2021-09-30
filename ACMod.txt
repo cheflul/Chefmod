@@ -88,5 +88,35 @@ Bal Fell 9,-12 (Landscape edits)
 	Scrubruin texture changed to scrub to clear a texture seam
 	Kreshweed bleeding through Daedric wall moved
 	Jagged terrain in ruin smoothed x2
-9,-11
+9,-11 (Landscape edits)
+	Jagged terrain on the south side of the island smoothed
+	Texture seam in the same spot cleared
+	Jagged terrain on the west side of the island smoothed
+	Terrain spike by shipwreck cleared x2
+	crate_01_iron_weapons lowered to deck
+	Floating barnacles lowered
+9,-10 (Landscape edits)
+	Overly sunk kelp raised x2
+	Floating kollop sunk
+	Jagged terrain on west island smoothed
+	Overly sunk Gold Kanet raised x3
+	Floating kreshweed sunk
+	Texture seam on west island cleared x2
+	Floating barnacles lowered
+	Jagged terrain by east island smoothed
+	Texture seam in the same spot cleared
+	Terrain spike on south island cleared
+	Texture seam on south island cleared x2
+9,-9 (Landscape edits)
+	Floating kollop lowered
+	Overbled kelp raised x4
+	Lighting seam moved
+	Kreshweed bleeding through rock moved x2
+	Jagged terrain on island beach smoothed
+	Jagged terrain on island hill smoothed x2
+	Menhir moved to cover texture seam
+	Texture seam on norteast island cleared x2
+9,-8
 	
+10,-10
+	Texture seam on west border covered
