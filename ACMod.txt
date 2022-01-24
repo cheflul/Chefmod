@@ -117,6 +117,13 @@ Bal Fell 9,-12 (Landscape edits)
 	Menhir moved to cover texture seam
 	Texture seam on norteast island cleared x2
 9,-8
+	Floating barnacles lowered
+10,-14
+	h2o_all_lev-2 raised from beneath terrain
+10,-12
+	Jagged terrain on hill x2
+	Kreshweed bleeding into rock
+10,-11
 	
 10,-10
 	Texture seam on west border covered
