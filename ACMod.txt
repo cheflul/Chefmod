@@ -1,6 +1,6 @@
 ACMod - Azura's Coast Fixed
-This mod aims to fix as many visual and placement errors as possible in Azura's Coast Region.
-Due to terrain edits, compatibility with other landscape altering mods (islands, overhauls) won't be perfect. Any mods altering the landscape of an Azura's Coast Region cell should be loaded after ACMod, otherwise the game will load the terrain from this mod. You could also run the risk of objects edited by this mod appearing in awkward positions in the hypothetical conflicting mods. I tried to avoid touching terrain at the border of cells, but it wasn't always possible.
+This mod aims to fix as many visual and placement errors as possible in the Azura's Coast Region.
+Due to terrain edits, any mods in the covered area should be loaded after ACMod, otherwise the (near) vanilla terrain will be used.
 
 Full Changelog:
 7,-14
@@ -120,10 +120,31 @@ Bal Fell 9,-12 (Landscape edits)
 	Floating barnacles lowered
 10,-14
 	h2o_all_lev-2 raised from beneath terrain
-10,-12
+10,-12 (Landscape edits)
 	Jagged terrain on hill x2
 	Kreshweed bleeding into rock
-10,-11
-	
-10,-10
+10,-11 (Landscape edits)
+	Jagged terrain on beach
+	Saltrice bleeding into kreshweed
+	Saltrice bleeding into rock
+	Marshmarrow bleeding into rock
+	Jagged terrain on hill x5
+	Kreshweed floating
+	Floating rock
+	Texture seam on west island
+	Mushroom caps bleeding together
+10,-10 (Landscape edits)
 	Texture seam on west border covered
+	Floating barnacle rotated
+	Deleted plant hidden beneath terrain/rocks x3
+	Deleted menheir hidden mostly beneath terrain x2
+	Texture seam on beach covered
+	Kreshweed bleeding into rock
+	Jagged terrain on beach
+	Marshmarrow bleeding into rock
+	Floating kreshweed
+	Texture seam on hill covered x2
+	Kreshweed bleeding into rock x2
+	Inland texture seam covered x2
+10,-9
+	
