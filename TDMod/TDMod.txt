@@ -1,0 +1,75 @@
+-------------------------------------------- Exterior ----------------------------------------------
+Ald-ruhn - Added: Redoran watchmen
+Maar Gan - Added: Redoran watchmen
+Balmora - Added: Dunmer grafiti decals
+		  Edited: furn_banner_tavern_eightplates to use tr\f\tr_act_banner_inn_04.nif
+-------------------------------------------- Interior ----------------------------------------------
+Odrosal, Dwemer Training Academy - Added: T_Dwe_Hammer_Repair_01
+Urshilaku, Juno Burial - Replace: repair_journeyman_01 with T_Dwe_Hammer_Repair_01
+---------------------------------------------- NPC -------------------------------------------------
+gladroon - Added: T_Dwe_Hammer_Repair_01
+manicky - Added: T_Dwe_Hammer_Repair_01
+ordinator stationary/wander/_hp/ilpe/high fane - Added: T_De_Ordinator_Greaves_01
+Vaval Orethi - Replaced: chitin_watchman_helm with T_De_Chitin_PioneerHelm_01
+----------------------------------------- Leveled Items --------------------------------------------
+l_n_repair item - Added: T_Dwe_Hammer_Repair_01 (lvl 10)
+random_drinks_01 - Added: T_De_Drink_LiquorLlotham_01
+random_alchemy_diff - Added: T_Bre_Drink_WineWayrest_01 + 
+							 T_De_Drink_BourbonGoya_01 + 
+							 T_De_Drink_LiquorLlotham_01
+l_n_apparatus - Added: T_De_Ebony_Alembic (lvl 25) +
+					   T_De_Ebony_Calcinator (lvl 25) +
+					   T_De_Ebony_Mortar (lvl 25) +
+					   T_De_Ebony_Retort(lvl 25) 
+l_n_armor_boots - Added: T_De_Dreugh_Boots_01 (lvl 15) +
+						 T_De_RedoranWatchman_Boots (lvl 4) +
+						 T_De_TelvCephalopod_Boots_01 (lvl 1) +
+						 T_Nor_Iron_Boots_01 (lvl 4)
+l_n_armor_bracers - Added: T_De_Dreugh_BracerL_01/R_01 (lvl 13) +
+l_n_armor_cuirass - Added: T_De_Netch_Cuirass_01 (lvl 1) + 
+						   T_De_NetchRogue_Cuirass_01 (lvl 1) +
+						   T_De_RedoranWatchman_Cuirass (lvl 4) +
+						   T_De_TelvCephalopod_Cuirass_01 (lvl 1)
+l_n_armor_gauntlet - Added: T_De_RedoranWatchman_GauntletL/R (lvl 4) +
+							T_De_TelvCephalopod_GauntL_01/R_01 (lvl 1) +
+							T_Nor_Iron_GauntletL_01 (lvl 4) +
+							T_Imp_ColFur_GauntL_01/R_01 (lvl 1)
+l_n_armor_greaves - Added: T_De_Dreugh_Greaves_01 (lvl 17) +
+						   T_De_RedoranWatchman_Greaves (lvl 4) +
+						   T_De_TelvCephalopod_Greaves_01 (lvl 1) +
+						   T_Nor_Iron_Greaves_01 (lvl 4)
+l_n_armor_helmet - Added: T_De_Dreugh_Helm_Closed (lvl 11) +
+						  T_De_Dreugh_Hunter_Helm_01 (lvl 11) +
+						  T_De_Chitin_PioneerHelm_01 (lvl 4) + 
+						  T_De_Caravaner_Helm_01 (lvl 1) +
+						  T_De_NetchRogue_Helm_01/01 (lvl 1) +
+						  T_De_NetchStalker_Helm_01 (lvl 1) +
+						  chitin_watchman_helm (lvl 4)
+l_n_armor_pauldron - Added: T_De_Dreugh_PauldronL_01/R_01 (lvl 17) +
+							T_De_Chitin_PauldrL_01/R_01 (lvl 1) +
+							T_De_RedoranWatchman_PauldronL/R (lvl 4) +
+							T_De_TelvCephalopod_PauldL_01/R_01 (lvl 1) +
+							T_Nor_Iron_PauldronL_01/R_01 (lvl 4)
+l_n_wpn_melee_axe - Added: T_Nor_Orn_WarAxe_01 (lvl 13) +
+						   T_De_Dreugh_Waraxe_01 (lvl 10) + 
+						   T_Orc_Regular_Waraxe_01 (lvl 15)
+--------------------------------------- Leveled Creatures ------------------------------------------
+h2o_all_lev** - Added: T_Mw_Fau_BlindSlauFi_01 (lvl 3)
+ex_grazelands_** - Added: T_Dae_Cre_Seduc_01 (lvl 15) + 
+							 T_Dae_Cre_SeducDark_01 (lvl 23)
+ex_azurascoast_** - Added: T_Glb_Cre_LandDreu_01 (lvl 10) +
+						   T_Glb_Cre_LandDreuDs_01 (lvl 12) +
+						   T_Dae_Cre_Devourer_01 (lvl 20)
+------------------------------------------ Containers ----------------------------------------------
+dwrv_chest10 + dwrv_chest_Bam - Replaced: repair_journeyman_01 with T_Dwe_Hammer_Repair_01
+dwrv_chest10_kjeld - Added: T_Dwe_Hammer_Repair_01
+com_cupboard_01_booze - Added: T_De_Drink_LiquorLlotham_01
+de_p_desk_nuncius - Added: T_De_Drink_LiquorLlotham_01
+
+
+
+Add:
+-Rubies in coastal caves
+-Land Dreugh in Coastal lists
+-Chuzuei set
+-More watchman stuff
