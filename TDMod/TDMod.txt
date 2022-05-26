@@ -9,57 +9,117 @@ Urshilaku, Juno Burial - Replace: repair_journeyman_01 with T_Dwe_Hammer_Repair_
 ---------------------------------------------- NPC -------------------------------------------------
 gladroon - Added: T_Dwe_Hammer_Repair_01
 manicky - Added: T_Dwe_Hammer_Repair_01
-ordinator stationary/wander/_hp/ilpe/high fane - Added: T_De_Ordinator_Greaves_01
+ordinator stationary/wander/_hp/ilpe - Added: T_De_Ordinator_Greaves_01
+									   Replaced: ebony mace with T_De_Indoril_Mace_01
+ordinator_high fane - Added: T_De_Ordinator_Greaves_01
+					  Replaced: silver claymore with 
+nalosi alari - Added: T_De_Ordinator_Greaves_01
+			   Replaced: steel longsword with T_De_Indoril_Scimitar_01
 Vaval Orethi - Replaced: chitin_watchman_helm with T_De_Chitin_PioneerHelm_01
+telvanni guard/stand/sharpshooter Replaced: bonemold with T_De_TelvCephalopod_**
+general darius - Replaced: imperial broadsword with T_Imp_Templar_Longsword_01
 ----------------------------------------- Leveled Items --------------------------------------------
 l_n_repair item - Added: T_Dwe_Hammer_Repair_01 (lvl 10)
 random_drinks_01 - Added: T_De_Drink_LiquorLlotham_01
-random_alchemy_diff - Added: T_Bre_Drink_WineWayrest_01 + 
-							 T_De_Drink_BourbonGoya_01 + 
+random_alchemy_diff - Added: T_Bre_Drink_WineWayrest_01
+							 T_De_Drink_BourbonGoya_01
 							 T_De_Drink_LiquorLlotham_01
-l_n_apparatus - Added: T_De_Ebony_Alembic (lvl 25) +
-					   T_De_Ebony_Calcinator (lvl 25) +
-					   T_De_Ebony_Mortar (lvl 25) +
+l_n_apparatus - Added: T_De_Ebony_Alembic (lvl 25)
+					   T_De_Ebony_Calcinator (lvl 25)
+					   T_De_Ebony_Mortar (lvl 25)
 					   T_De_Ebony_Retort(lvl 25) 
-l_n_armor_boots - Added: T_De_Dreugh_Boots_01 (lvl 15) +
-						 T_De_RedoranWatchman_Boots (lvl 4) +
-						 T_De_TelvCephalopod_Boots_01 (lvl 1) +
+l_n_armor_boots - Added: T_De_Dreugh_Boots_01 (lvl 15)
+						 T_De_RedoranWatchman_Boots (lvl 4)
+						 T_De_TelvCephalopod_Boots_01 (lvl 1)
 						 T_Nor_Iron_Boots_01 (lvl 4)
-l_n_armor_bracers - Added: T_De_Dreugh_BracerL_01/R_01 (lvl 13) +
-l_n_armor_cuirass - Added: T_De_Netch_Cuirass_01 (lvl 1) + 
-						   T_De_NetchRogue_Cuirass_01 (lvl 1) +
-						   T_De_RedoranWatchman_Cuirass (lvl 4) +
+l_n_armor_bracers - Added: T_De_Dreugh_BracerL_01/R_01 (lvl 13)
+l_n_armor_cuirass - Added: T_De_Netch_Cuirass_01 (lvl 1)
+						   T_De_NetchRogue_Cuirass_01 (lvl 1)
+						   T_De_RedoranWatchman_Cuirass (lvl 4)
 						   T_De_TelvCephalopod_Cuirass_01 (lvl 1)
-l_n_armor_gauntlet - Added: T_De_RedoranWatchman_GauntletL/R (lvl 4) +
-							T_De_TelvCephalopod_GauntL_01/R_01 (lvl 1) +
-							T_Nor_Iron_GauntletL_01 (lvl 4) +
+l_n_armor_gauntlet - Added: T_De_RedoranWatchman_GauntletL/R (lvl 4)
+							T_De_TelvCephalopod_GauntL_01/R_01 (lvl 1)
+							T_Nor_Iron_GauntletL_01 (lvl 4)
 							T_Imp_ColFur_GauntL_01/R_01 (lvl 1)
-l_n_armor_greaves - Added: T_De_Dreugh_Greaves_01 (lvl 17) +
-						   T_De_RedoranWatchman_Greaves (lvl 4) +
-						   T_De_TelvCephalopod_Greaves_01 (lvl 1) +
+l_n_armor_greaves - Added: T_De_Dreugh_Greaves_01 (lvl 17)
+						   T_De_RedoranWatchman_Greaves (lvl 4)
+						   T_De_TelvCephalopod_Greaves_01 (lvl 1)
 						   T_Nor_Iron_Greaves_01 (lvl 4)
-l_n_armor_helmet - Added: T_De_Dreugh_Helm_Closed (lvl 11) +
-						  T_De_Dreugh_Hunter_Helm_01 (lvl 11) +
-						  T_De_Chitin_PioneerHelm_01 (lvl 4) + 
-						  T_De_Caravaner_Helm_01 (lvl 1) +
-						  T_De_NetchRogue_Helm_01/01 (lvl 1) +
-						  T_De_NetchStalker_Helm_01 (lvl 1) +
+l_n_armor_helmet - Added: T_De_Dreugh_Helm_Closed (lvl 11)
+						  T_De_Dreugh_Hunter_Helm_01 (lvl 11)
+						  T_De_Chitin_PioneerHelm_01 (lvl 4)
+						  T_De_Caravaner_Helm_01 (lvl 1)
+						  T_De_NetchRogue_Helm_01/01 (lvl 1)
+						  T_De_NetchStalker_Helm_01 (lvl 1)
 						  chitin_watchman_helm (lvl 4)
-l_n_armor_pauldron - Added: T_De_Dreugh_PauldronL_01/R_01 (lvl 17) +
-							T_De_Chitin_PauldrL_01/R_01 (lvl 1) +
-							T_De_RedoranWatchman_PauldronL/R (lvl 4) +
-							T_De_TelvCephalopod_PauldL_01/R_01 (lvl 1) +
+l_n_armor_pauldron - Added: T_De_Dreugh_PauldronL_01/R_01 (lvl 17)
+							T_De_Chitin_PauldrL_01/R_01 (lvl 1)
+							T_De_RedoranWatchman_PauldronL/R (lvl 4)
+							T_De_TelvCephalopod_PauldL_01/R_01 (lvl 1)
 							T_Nor_Iron_PauldronL_01/R_01 (lvl 4)
-l_n_wpn_melee_axe - Added: T_Nor_Orn_WarAxe_01 (lvl 13) +
-						   T_De_Dreugh_Waraxe_01 (lvl 10) + 
+l_n_wpn_melee_axe - Added: T_Nor_Orn_WarAxe_01 (lvl 8)
+						   T_De_Dreugh_Waraxe_01 (lvl 10)
 						   T_Orc_Regular_Waraxe_01 (lvl 15)
+						   T_Imp_Templar_Waraxe_01 (lvl 13)
+						   T_Imp_Templar_Battleaxe_01 (lvl 15)
+l_n_wpn_melee_blunt - Added: T_Imp_Silver_Mace_02 (lvl 15)
+							 T_Imp_Templar_Warhammer_01 (lvl 15)
+							 T_De_Dreugh_Mace_01 (lvl 10)
+							 T_Dwe_Regular_Greatmace_01 (lvl 13)
+							 T_Dwe_Regular_Staff_01/02 (lvl 13)
+							 T_Nor_Orn_Club_01 (lvl 13)
+							 T_Nor_Orn_Mace_01 (lvl 13)
+							 T_Nor_Orn_Warhammer_01 (lvl 13)
+							 T_Orc_Regular_Mace_01 (lvl 15)
+							 T_Orc_regular_club_01 (lvl 15)
+							 T_Orc_Regular_Staff_01 (lvl 15)
+							 T_Nor_Orn_Staff_01 (lvl 13)
+l_n_wpn_melee_long blade - Added: T_Com_Iron_Daikatana_01 (lvl 5)
+								  T_Com_Iron_GSword_01 (lvl 5)
+								  T_Com_Iron_katana_01 (lvl 1)
+								  T_Com_Iron_Rapier_01 (lvl 1)
+								  T_Com_Iron_Scimitar_01 (lvl 1)
+								  T_Com_Steel_Rapier_01 (lvl 6)
+								  T_Dwe_Regular_Broadsword_01 (lvl 13)
+								  T_Dwe_Regular_Longsword_01 (lvl 13)
+								  T_Imp_Silver_Broadsword_01 (lvl 8)
+								  T_Imp_Silver_Katana_01 (lvl 8)
+								  T_Imp_Silver_DaiKatana_01 (lvl 10)
+								  T_Imp_Templar_Longsword_01 (lvl 15)
+								  T_Nor_Orn_Longsword_01 (lvl 13)
+								  T_Orc_Regular_Longsword_01 (lvl 13)
+random_de_blueware_01 - Added: T_De_Blueware** (all)
+random_de_cheapfood_01_nc - Added: T_IngFood_FishSlaughterDried_01
 --------------------------------------- Leveled Creatures ------------------------------------------
 h2o_all_lev** - Added: T_Mw_Fau_BlindSlauFi_01 (lvl 3)
-ex_grazelands_** - Added: T_Dae_Cre_Seduc_01 (lvl 15) + 
+ex_grazelands_** - Added: T_Dae_Cre_Seduc_01 (lvl 15) 
 							 T_Dae_Cre_SeducDark_01 (lvl 23)
-ex_azurascoast_** - Added: T_Glb_Cre_LandDreu_01 (lvl 10) +
-						   T_Glb_Cre_LandDreuDs_01 (lvl 12) +
+ex_azurascoast_** - Added: T_Glb_Cre_LandDreu_01 (lvl 10)
+						   T_Glb_Cre_LandDreuDs_01 (lvl 12)
 						   T_Dae_Cre_Devourer_01 (lvl 20)
+ex_molagmar_lev** - Added: T_Dae_Cre_Guardian_01 (lvl 20)
+						   T_Dae_Cre_Verm_01 (lvl 9)
+						   T_Dae_Cre_LesserClfr_01 (lvl 5)
+ex_ascadianisles_lev** - Added: T_Mw_Fau_Orn_01 (lvl 1)
+								T_Mw_Fau_OrnQnDs_01 (lvl 2)
+ex_RedMtn_all_lev** - Added: T_Dae_Cre_LesserClfr_01 (lvl 4)
+							 T_Dae_Cre_Devourer_01 (lvl 20)
+ex_shore_all_lev** - Added: T_Glb_Cre_LandDreu_01 (lvl 10)
+							T_Glb_Cre_LandDreuDs_01 (lvl 12)
+in_dae_all_lev** - Added: T_Dae_Cre_LesserClfr_01 (lvl 1)
+						  T_Dae_Cre_Verm_01 (lvl 8)
+						  T_Dae_Cre_Drem_01 (lvl 9)
+						  T_Dae_Cre_Drem_Arch_01 (lvl 10)
+						  T_Dae_Cre_Drem_Cast_01 (lvl 10)
+						  T_Dae_Cre_Seduc_01 (lvl 12)
+						  T_Dae_Cre_Devourer_01 (lvl 16)
+						  T_Dae_Cre_Guardian_01 (lvl 16)
+						  T_Dae_Cre_SeducDark_02 (lvl 20)
+in_dae_dremora_lev** - Added: T_Dae_Cre_Drem_Arch_01 (lvl 1)
+							  T_Dae_Cre_Drem_Cast_01 (lvl 1)
+in_dae_clanfear_lev** - Added: T_Dae_Cre_LesserClfr_01 (lvl 1)
+bm_ex_horker_lake - Added: T_Glb_Fau_HorkerWhit_01 (lvl 1)
+bm_ex_horker_h20 - Added: T_Glb_Fau_HorkerWhit_02
 ------------------------------------------ Containers ----------------------------------------------
 dwrv_chest10 + dwrv_chest_Bam - Replaced: repair_journeyman_01 with T_Dwe_Hammer_Repair_01
 dwrv_chest10_kjeld - Added: T_Dwe_Hammer_Repair_01
@@ -70,6 +130,7 @@ de_p_desk_nuncius - Added: T_De_Drink_LiquorLlotham_01
 
 Add:
 -Rubies in coastal caves
--Land Dreugh in Coastal lists
 -Chuzuei set
--More watchman stuff
+-Hand place some watchman stuff
+-Hand place some adamantium stuff
+-Hand place some indoril stuff
