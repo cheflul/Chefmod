@@ -1,11 +1,52 @@
+--------------------------------------------- Cities -----------------------------------------------
+Ald-ruhn Exteriors
+	Added: Redoran watchmen
+Maar Gan Exteriors
+	Added: Redoran watchmen
+Balmora Exteriors
+	Added: Dunmer grafiti decals
+	Edited: furn_banner_tavern_eightplates to use tr\f\tr_act_banner_inn_04.nif
+			furn_banner_tavern_luckylock to use tr\f\tr_act_banner_inn_01.nif
+			furn_bannerd_trader_ravirr to use tf\f\tr_act_banner_trade_02.nif
+Balmora Interiors and Interior Containers:
+	Balmora, Meldor: Armorer
+		Added: T_De_Chitin_PioneerHelm_02
+			   T_De_Bonemold_Chuzei_BracerL/R
+		Edited: crate_01_armornetch_mel with -1 T_Mw_Random_ArmorChuzei
+				moved iron_helmet over
+	Balmora, Clagius Clanler: Outfitter
+		Added: Some T_De_Stoneware.. clutter
+					T_De_Drink_LiquorLlotham_01 x2
+		Edited: com_chest_02_v_clanler with -2 T_Mw_Random_ClutterStoneware/Blueware
+	Balmora, Ra'Virr: Trader
+		Added: T_Com_Iron_Javelin_01 x2
+		Edited: com_chest_02_v_armor02 with -1 T_De_NetchRogue_Cuirass_01/Helm_01
+				moved steel dart up
+	Balmora, Lucky Lockup
+		Added: Some T_Com_BrokenBottle junk
+	Balmora, The Razor Hole
+		Added: T_De_Dreugh_Shortsword_01
+		Edited: com_chest_02_v_weapon06 with -10 T_Com_Iron_Javelin_01
+	Balmora, Guild of Mages
+		Replaced: furn_de_tapestry_07 with T_De_Furn_TapestryMG_01
+Suran Exteriors:
+	Added: Wall art decals
+Suran Interiors:
+	Suran, Garothmuk gro-Muzgub: Smith
+		Added: T_De_Dreugh_Boots_01
+			   T_Orc_Regular_Crossbow_01
+		Replaced crate_01_armorbonemold_ with T_MwCom_Var_Cr1Chuz_01
+	Suran, Ralds Oril: Trader
+		Added: T_De_Dreugh_Greaves_01
+	Suran, Goldyn Belaram: Pawnbroker
+		Added: T_Imp_Templar_Shortsword_01
+		Edited: moved silver throwing star
 -------------------------------------------- Exterior ----------------------------------------------
-Ald-ruhn - Added: Redoran watchmen
-Maar Gan - Added: Redoran watchmen
-Balmora - Added: Dunmer grafiti decals
-		  Edited: furn_banner_tavern_eightplates to use tr\f\tr_act_banner_inn_04.nif
+
 -------------------------------------------- Interior ----------------------------------------------
 Odrosal, Dwemer Training Academy - Added: T_Dwe_Hammer_Repair_01
 Urshilaku, Juno Burial - Replace: repair_journeyman_01 with T_Dwe_Hammer_Repair_01
+Assemanu, Shrine - Added: T_De_6th_Sickle_01
 ---------------------------------------------- NPC -------------------------------------------------
 gladroon - Added: T_Dwe_Hammer_Repair_01
 manicky - Added: T_Dwe_Hammer_Repair_01
@@ -18,6 +59,9 @@ nalosi alari - Added: T_De_Ordinator_Greaves_01
 Vaval Orethi - Replaced: chitin_watchman_helm with T_De_Chitin_PioneerHelm_01
 telvanni guard/stand/sharpshooter Replaced: bonemold with T_De_TelvCephalopod_**
 general darius - Replaced: imperial broadsword with T_Imp_Templar_Longsword_01
+dead ordinator_key - Replaced: l_n_wpn_melee_long blade with T_De_Indoril_Spear_01
+jamie - Replaced: common_shirt_05 with T_De_Cm_Shirt_09
+movisa andas - Replaced: Bonemold with chuzei bonemold
 ----------------------------------------- Leveled Items --------------------------------------------
 l_n_repair item - Added: T_Dwe_Hammer_Repair_01 (lvl 10)
 random_drinks_01 - Added: T_De_Drink_LiquorLlotham_01
@@ -49,7 +93,7 @@ l_n_armor_helmet - Added: T_De_Dreugh_Helm_Closed (lvl 11)
 						  T_De_Dreugh_Hunter_Helm_01 (lvl 11)
 						  T_De_Chitin_PioneerHelm_01 (lvl 4)
 						  T_De_Caravaner_Helm_01 (lvl 1)
-						  T_De_NetchRogue_Helm_01/01 (lvl 1)
+						  T_De_NetchRogue_Helm_01/02 (lvl 1)
 						  T_De_NetchStalker_Helm_01 (lvl 1)
 						  chitin_watchman_helm (lvl 4)
 l_n_armor_pauldron - Added: T_De_Dreugh_PauldronL_01/R_01 (lvl 17)
@@ -104,6 +148,7 @@ l_n_wpn_melee_spear - Added: T_De_Dreugh_Spear_01 (lvl 6)
 							 T_De_Dreugh_Halberd (lvl 8)
 							 T_Dwe_Regular_Longspear_01 (lvl 14)
 							 T_Imp_Templar_Spear_01 (lvl 14)
+							 T_Imp_Templar_Longspear_01 (lvl 14)
 							 T_Nor_Orn_Halberd_01 (lvl 16)
 							 T_Nor_Orn_Spear_01 (lvl 14)
 							 T_Nor_Orn_Longspear_01 (lvl 16)
@@ -113,8 +158,149 @@ l_n_wpn_missle_arrow - Added: T_Com_Wood_Arrow_01 (lvl 1)
 							  T_Dwe_Regular_Arrow_01 (lvl 11)
 							  T_Nor_Orn_Arrow_01 (lvl 9)
 							  T_Orc_Orcish_Arrow (lvl 11)
+l_n_wpn_missle_bolt - Added: T_Com_Wood_Bolt_01 (lvl 1)
+							 T_De_Chitin_Bolt_01 (lvl 3)
+							 T_Dwe_Regular_Bolt_01
+							 T_Nor_Orn_Bolt_01 (lvl 10)
+l_n_wpn_missle_bow - Added: T_Dwe_Regular_Longbow_01 (lvl 14)
+							T_Imp_Silver_Longbow_01 (lvl 12)
+l_n_wpn_missle_thrown - Added: T_Com_Iron_Dart_01 (lvl 4)
+							   T_Com_Iron_Javelin_01 (lvl 4)
+							   T_Com_Iron_Star_01 (lvl 4)
+							   T_Com_Silver_Javelin_01 (lvl 8)
+							   T_Com_Steel_Knife_01 (lvl 6)
+							   T_De_Bonemold_Dart_01 (lvl 10)
+							   T_De_Chitin_Dart_01 (lvl 1)
+							   T_De_Chitin_Javelin_01 (lvl 1)
+							   T_De_Corkbulb_Dart_01 (lvl 1)
+							   T_Dwe_Regular_Dart_01 (lvl 12)
+							   T_Nor_Orn_Dart_01 (lvl 14)
+							   T_Nor_Orn_ThrowingKnife_01 (lvl 14)
+							   T_Orc_Regular_Dart_01 (lvl 12)
+							   T_Orc_Regular_ThrowingKnife_01 (lvl 12)
+							   T_Orc_Regular_ThrowingStar_01 (lvl 12)
+							   T_Orc_Regular_Bow_01 (lvl 8)
+random ebony weapon - Added: T_De_Ebony_Battleaxe_01
+							 T_De_Ebony_Bow_01
+							 T_De_Ebony_Claymore_01
+							 T_De_Ebony_Dagger_01
+							 T_De_Ebony_DaiKatana_01
+							 T_De_Ebony_Halberd_01
+							 T_De_Ebony_Halberd_02
+							 T_De_Ebony_Katana_01
+							 T_De_Ebony_Scythe
+							 T_De_Ebony_Shortsword_02
+							 T_De_Ebony_Tanto_01
+							 T_De_Ebony_Wakizashi_01
+							 T_De_Ebony_Warhammer_01
+random excellent melee weapon - Added: T_De_Dreugh_Dagger_01 (lvl 1)
+									   T_De_Dreugh_Halberd (lvl 1)
+									   T_De_Dreugh_Mace_01 (lvl 1)
+									   T_De_Dreugh_Mace_01 (lvl 1)
+									   T_De_Dreugh_Shortsword_01 (lvl 1)
+									   T_De_Dreugh_Spear_01 (lvl 1)
+									   T_De_Dreugh_Waraxe_01 (lvl 1)
+									   T_Dwe_Regular_Broadsword_01 (lvl 1)
+									   T_Dwe_Regular_Dagger_01 (lvl 1)
+									   T_Dwe_Regular_Greatmace_01 (lvl 1)
+									   T_Dwe_Regular_Longspear_01 (lvl 1)
+									   T_Dwe_Regular_Longsword_01 (lvl 1)
+									   T_Dwe_Regular_Staff_01/2 (lvl 1)
+									   adamantium_axe (lvl 14)
+									   adamantium_claymore (lvl 15)
+									   adamantium_mace (lvl 14)
+									   adamantium_shortsword (lvl 14)
+									   adamantium_spear (lvl 14)
+									   T_Com_Adamant_Broadsword_01 (lvl 14)
+									   T_Com_Adamant_Club_01 (lvl 14)
+									   T_Com_Adamant_Dagger_01 (lvl 14)
+									   T_Com_Adamant_DaiKatana_01 (lvl 15)
+									   T_Com_Adamant_DoubleAxe_01 (lvl 15)
+									   T_Com_Adamant_Gisern (lvl 14)
+									   T_Com_Adamant_Halberd_01 (lvl 14)
+									   T_Com_Adamant_Katana_01 (lvl 14)
+									   T_Com_Adamant_Longsword_01 (lvl 14)
+									   T_Com_Adamant_Saber_01 (lvl 14)
+									   T_Com_Adamant_Scimitar_01 (lvl 14)
+									   T_Com_Adamant_Staff_01 (lvl 14)
+									   T_Com_Adamant_Tanto_01 (lvl 14)
+									   T_Com_Adamant_Wakizashi_01 (lvl 14)
+									   T_Com_Adamant_WarAxe_01 (lvl 14)
+									   T_Com_Adamant_Warhammer_01 (lvl 15)
+									   T_Dae_Regular_Broadsword_01 (lvl 17)
+									   T_Dae_Regular_GSword_01 (lvl 18)
+									   T_Dae_Regular_Halberd_01 (lvl 17)
+									   T_Dae_Regular_Longspear_01 (lvl 18)
+									   T_Dae_Regular_Longsword_01 (lvl 17)
+random_armor_chitin - Added: T_De_Chitin_PauldrL_01/R_01
+							 T_De_Chitin_PioneerHelm_01
+random_armor_glass - Added: T_De_Glass_Helm_Closed_01
+random_armor_netch_leather - Added: T_De_Netch_Cuirass_01
+									T_De_NetchRogue_Cuirass_01
+									T_De_NetchRogue_Helm_01//02
+									T_De_NetchStalker_Helm_01
+random_daedric_weapon - Added: T_Dae_Regular_Broadsword_01
+							   T_Dae_Regular_GSword_01
+							   T_Dae_Regular_Halberd_01
+							   T_Dae_Regular_Longspear_01 
+							   T_Dae_Regular_Longsword_01
+random_dwemer_weapon - Added: T_Dwe_Regular_Broadsword_01
+							  T_Dwe_Regular_Dagger_01
+							  T_Dwe_Regular_Greatmace_01
+							  T_Dwe_Regular_Longspear_01
+							  T_Dwe_Regular_Longsword_01
+							  T_Dwe_Regular_Staff_01/02
 random_de_blueware_01 - Added: T_De_Blueware** (all)
 random_de_cheapfood_01_nc - Added: T_IngFood_FishSlaughterDried_01
+random_food - Added: T_IngFlor_SujPod_01
+					 T_IngFood_FishSlaughterDried_01
+random_gem - Added: T_IngMine_Amethyst_01
+					T_IngMine_Aquamarine_01
+					T_IngMine_Citrine_01
+					T_IngMine_FireOpal_01
+					T_IngMine_Garnet_01
+					T_IngMine_Peridot_01
+					T_IngMine_Sapphire_01
+					T_IngMine_Topaz_01
+random_Golden_saint_weapon - Added: T_De_Ebony_Battleaxe_01
+									T_De_Ebony_Claymore_01
+									T_De_Ebony_DaiKatana_01
+									T_De_Ebony_Halberd_01
+									T_De_Ebony_Katana_01
+									T_De_Ebony_Scythe
+									T_De_Ebony_Shortsword_02
+									T_De_Ebony_Warhammer_01
+									T_De_Glass_Broadsword_01
+									T_De_Glass_DaiKatana_01
+									T_De_Glass_Flamesword_01
+									T_De_Glass_Katana_01
+									T_De_Glass_Mace_01
+									T_De_Glass_Shortsword_01
+									T_De_Glass_Spear_01
+									T_De_Glass_Warhammer_01
+									T_De_Glass_BattleAxe_01
+random_imp_silverware - Added: T_Imp_SilverWare** (most)
+random_iron_weapon - Added: T_Com_Iron_Broadsword_01
+							T_Com_Iron_GreatMace_01
+							T_Com_Iron_GSword_01
+							T_Com_Iron_katana_01
+							T_Com_Iron_Rapier_01
+							T_Com_Iron_Saber_01
+							T_Com_Iron_Scimitar_01
+random_nordic_weapons - Added: T_Nor_Orn_Club_01 (lvl 5)
+							   T_Nor_Orn_Dagger_01 (lvl 5)
+							   T_Nor_Orn_Halberd_01 (lvl 9)
+							   T_Nor_Orn_Longspear_01 (lvl 11)
+							   T_Nor_Orn_Longsword_01 (lvl 10)
+							   T_Nor_Orn_Mace_01 (lvl 9)
+							   T_Nor_Orn_Shortsword_01 (lvl 5)
+							   T_Nor_Orn_Spear_01 (lvl 5)
+							   T_Nor_Orn_Staff_01 (lvl 5)
+							   T_Nor_Orn_WarAxe_01 (lvl 5)
+bm_randomweapon_berserker - Added: random_nordic_weapons (lvl 5)
+bm_randomwpn_smugglers - Added: random_nordic_weapons (lvl 5)
+random_pos - Added: T_Glb_Random_Junk
+					T_Mw_Random_ClutterStoneware
 --------------------------------------- Leveled Creatures ------------------------------------------
 h2o_all_lev** - Added: T_Mw_Fau_BlindSlauFi_01 (lvl 3)
 ex_grazelands_** - Added: T_Dae_Cre_Seduc_01 (lvl 15) 
@@ -145,13 +331,12 @@ in_dae_dremora_lev** - Added: T_Dae_Cre_Drem_Arch_01 (lvl 1)
 in_dae_clanfear_lev** - Added: T_Dae_Cre_LesserClfr_01 (lvl 1)
 bm_ex_horker_lake - Added: T_Glb_Fau_HorkerWhit_01 (lvl 1)
 bm_ex_horker_h20 - Added: T_Glb_Fau_HorkerWhit_02
------------------------------------------- Containers ----------------------------------------------
+--------------------------------------- Other Containers -------------------------------------------
 dwrv_chest10 + dwrv_chest_Bam - Replaced: repair_journeyman_01 with T_Dwe_Hammer_Repair_01
 dwrv_chest10_kjeld - Added: T_Dwe_Hammer_Repair_01
 com_cupboard_01_booze - Added: T_De_Drink_LiquorLlotham_01
 de_p_desk_nuncius - Added: T_De_Drink_LiquorLlotham_01
-
-
+com_chest_02_v_trader02 - Added: -3 T_Mw_Random_ClutterStoneware
 
 Add:
 -Rubies in coastal caves
