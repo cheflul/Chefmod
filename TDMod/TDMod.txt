@@ -47,6 +47,8 @@ Suran Interiors:
 Odrosal, Dwemer Training Academy - Added: T_Dwe_Hammer_Repair_01
 Urshilaku, Juno Burial - Replace: repair_journeyman_01 with T_Dwe_Hammer_Repair_01
 Assemanu, Shrine - Added: T_De_6th_Sickle_01
+Ularradallaku, Shrine - Added: T_IngMine_FireOpal_01
+Solstheim, Castle Karstaag, Throne Room - Added: T_IngMine_IceCrystal_01
 ---------------------------------------------- NPC -------------------------------------------------
 gladroon - Added: T_Dwe_Hammer_Repair_01
 manicky - Added: T_Dwe_Hammer_Repair_01
@@ -62,6 +64,22 @@ general darius - Replaced: imperial broadsword with T_Imp_Templar_Longsword_01
 dead ordinator_key - Replaced: l_n_wpn_melee_long blade with T_De_Indoril_Spear_01
 jamie - Replaced: common_shirt_05 with T_De_Cm_Shirt_09
 movisa andas - Replaced: Bonemold with chuzei bonemold
+felen maryon - Added: T_Com_Cnj_SummonDevourer
+					  T_Com_Cnj_SummonOgrim
+					  T_Com_Cnj_SummonSeducer
+diren vendu - Added: T_Com_Cnj_SummonDremoraArcher
+					 T_Com_Cnj_SummonDremoraCaster
+					 T_Com_Cnj_BoundWarAxe
+heem_la - Added: T_Com_Cnj_BoundPauldron
+ferise varo - Added: T_Com_Cnj_BoundPauldron
+solea nuccusius - Added: T_Com_Cnj_BoundGreaves
+						 T_Com_Cnj_BoundWarhammer
+erer darothril - Added: T_Com_Cnj_BoundGreaves
+						T_Com_Cnj_BoundWarAxe
+						T_Com_Cnj_SummonDremoraArcher
+						T_Com_Cnj_SummonDremoraCaster
+						T_Com_Cnj_SummonOgrim
+						T_Com_Cnj_SummonVermai
 ----------------------------------------- Leveled Items --------------------------------------------
 l_n_repair item - Added: T_Dwe_Hammer_Repair_01 (lvl 10)
 random_drinks_01 - Added: T_De_Drink_LiquorLlotham_01
@@ -285,7 +303,6 @@ random_food - Added: T_IngFlor_SujPod_01
 random_gem - Added: T_IngMine_Amethyst_01
 					T_IngMine_Aquamarine_01
 					T_IngMine_Citrine_01
-					T_IngMine_FireOpal_01
 					T_IngMine_Garnet_01
 					T_IngMine_Peridot_01
 					T_IngMine_Sapphire_01
