@@ -1,63 +1,75 @@
---------------------------------------------- Cities -----------------------------------------------
-Ald-ruhn Exteriors
-	Added: Redoran watchmen
-Maar Gan Exteriors
-	Added: Redoran watchmen
-Balmora Exteriors
-	Added: Dunmer grafiti decals
-	Edited: furn_banner_tavern_eightplates to use tr\f\tr_act_banner_inn_04.nif
-			furn_banner_tavern_luckylock to use tr\f\tr_act_banner_inn_01.nif
-			furn_bannerd_trader_ravirr to use tf\f\tr_act_banner_trade_02.nif
-Balmora Interiors and Interior Containers:
-	Balmora, Meldor: Armorer
-		Added: T_De_Chitin_PioneerHelm_02
-			   T_De_Bonemold_Chuzei_BracerL/R
-		Edited: crate_01_armornetch_mel with -1 T_Mw_Random_ArmorChuzei
-				moved iron_helmet over
-	Balmora, Clagius Clanler: Outfitter
-		Added: Some T_De_Stoneware.. clutter
-					T_De_Drink_LiquorLlotham_01 x2
-		Edited: com_chest_02_v_clanler with -2 T_Mw_Random_ClutterStoneware/Blueware
-	Balmora, Ra'Virr: Trader
-		Added: T_Com_Iron_Javelin_01 x2
-		Edited: com_chest_02_v_armor02 with -1 T_De_NetchRogue_Cuirass_01/Helm_01
-				moved steel dart up
-	Balmora, Lucky Lockup
-		Added: Some T_Com_BrokenBottle junk
-	Balmora, The Razor Hole
-		Added: T_De_Dreugh_Shortsword_01
-		Edited: com_chest_02_v_weapon06 with -10 T_Com_Iron_Javelin_01
-	Balmora, Guild of Mages
-		Replaced: furn_de_tapestry_07 with T_De_Furn_TapestryMG_01
-Suran Exteriors:
-	Added: Wall art decals
-Suran Interiors:
-	Suran, Garothmuk gro-Muzgub: Smith
-		Added: T_De_Dreugh_Boots_01
-			   T_Orc_Regular_Crossbow_01
-		Replaced crate_01_armorbonemold_ with T_MwCom_Var_Cr1Chuz_01
-	Suran, Ralds Oril: Trader
-		Added: T_De_Dreugh_Greaves_01
-	Suran, Goldyn Belaram: Pawnbroker
-		Added: T_Imp_Templar_Shortsword_01
-		Edited: moved silver throwing star
+--------------------------------------- Cities and Places -----------------------------------------
+Ald-ruhn
+	Added Redoran watchmen
+	Replaced temple with 2 layer version
+	Dandera Selaro now sells Redoran Watchman
+	Tiras Sadus now sells chitin javelins
+	Llether Vari now sells a Dreugh Flamecleaver
+	furn_bannerd_ench_vari now uses tr\f\tr_act_banner_ench_01.nif
+	Bivale Teneran now sells some TD clothes
+	heem_la in the Mages Guild sells T_Com_Cnj_BoundPauldron
+Buckmoth
+	Imsin the Dreamer now has a Templar sword
+	Orc Smith now sells legion katanas and spears
+	cocistian quaspus now wears a Colovian robe and has a Colovian face
+Maar Gan
+	Added Redoran watchmen
+Balmora
+	Added Dunmer grafiti decals
+	Replaced temple with 2 layer version
+	Changed furn_banner_tavern_eightplates to use tr\f\tr_act_banner_inn_04.nif
+	Changed furn_banner_tavern_luckylock to use tr\f\tr_act_banner_inn_01.nif
+	Changed furn_bannerd_trader_ravirr to use tf\f\tr_act_banner_trade_02.nif
+	Meldor: Armorer now sells T_De_Chitin_PioneerHelm_02 and Chuzei
+	Clagius Clanler: Outfitter now sells cheap TD clutter and Llotham
+	Ra'Virr: Trader now sells Iron Javelins and Netch Rogue gear
+	Lucky Lockup has some broken junk
+	The Razor Hole now sells a Dreugh shortsword and iron javelins
+	Guild of Mages uses TD Mages Guild tapestries
+Suran
+	Added Wall art decals
+	Garothmuk gro-Muzgub: Smith now sells Dreugh boots, chuzuei bonemold and an orc crossbow
+	Ralds Oril: Trader now sells Dreugh greaves
+	Goldyn Belaram: Pawnbroker sells a Templar shortsword
+Caldera
+	Mages guild uses TD tapestries
+	medila indaren sells Summon vermai and rock chisel clannfear
+	Falanaamo now sells colovian robes
+Vivec
+	Fighters guild sells iron and silver javelins
+	Mages guild uses TD tapestries
+	Malven Romori sells summon vermai and lesser clannfear
+Ghostgate
+	Selmen Relas given Ordinator greaves and scimitar
+	Teril Savani given TD robe
+	Fonas Retheran sells a chitin crossbow
+	Elvasea Thalas wears chuzuei
+	Dronos Llervu sells chuzuei
+	Replaced a generic weapon crate with a dreugh weapon crate
+	ferone veran given ordinator greaves and mace
+	faras thirano given TD robe
 -------------------------------------------- Exterior ----------------------------------------------
 
 -------------------------------------------- Interior ----------------------------------------------
-Odrosal, Dwemer Training Academy - Added: T_Dwe_Hammer_Repair_01
-Urshilaku, Juno Burial - Replace: repair_journeyman_01 with T_Dwe_Hammer_Repair_01
-Assemanu, Shrine - Added: T_De_6th_Sickle_01
-Ularradallaku, Shrine - Added: T_IngMine_FireOpal_01
-Solstheim, Castle Karstaag, Throne Room - Added: T_IngMine_IceCrystal_01
+Odrosal, Dwemer Training Academy
+	Added T_Dwe_Hammer_Repair_01
+	Added Dwarven junk stars
+Endusal, Kagrenac's study
+	Added Ebony crossbow
+Ashmelech
+	Gladroon sells Dwemer repair hammers
+Urshilaku
+	Replaced repair_journeyman_01 with T_Dwe_Hammer_Repair_01
+Assemanu, Shrine
+	Added T_De_6th_Sickle_01
+Ularradallaku, Shrine
+	Added T_IngMine_FireOpal_01
+Solstheim, Castle Karstaag, Throne Room
+	Added T_IngMine_IceCrystal_01
 ---------------------------------------------- NPC -------------------------------------------------
-gladroon - Added: T_Dwe_Hammer_Repair_01
 manicky - Added: T_Dwe_Hammer_Repair_01
-ordinator stationary/wander/_hp/ilpe - Added: T_De_Ordinator_Greaves_01
-									   Replaced: ebony mace with T_De_Indoril_Mace_01
-ordinator_high fane - Added: T_De_Ordinator_Greaves_01
-					  Replaced: silver claymore with 
-nalosi alari - Added: T_De_Ordinator_Greaves_01
-			   Replaced: steel longsword with T_De_Indoril_Scimitar_01
+All ordinators Added T_De_Ordinator_Greaves_01 and replaced ebony mace with T_De_Indoril_Mace_01
+nalosi alari Added T_De_Ordinator_Greaves_01 and replaced steel longsword with T_De_Indoril_Scimitar_01
 Vaval Orethi - Replaced: chitin_watchman_helm with T_De_Chitin_PioneerHelm_01
 telvanni guard/stand/sharpshooter Replaced: bonemold with T_De_TelvCephalopod_**
 general darius - Replaced: imperial broadsword with T_Imp_Templar_Longsword_01
@@ -70,7 +82,6 @@ felen maryon - Added: T_Com_Cnj_SummonDevourer
 diren vendu - Added: T_Com_Cnj_SummonDremoraArcher
 					 T_Com_Cnj_SummonDremoraCaster
 					 T_Com_Cnj_BoundWarAxe
-heem_la - Added: T_Com_Cnj_BoundPauldron
 ferise varo - Added: T_Com_Cnj_BoundPauldron
 solea nuccusius - Added: T_Com_Cnj_BoundGreaves
 						 T_Com_Cnj_BoundWarhammer
@@ -356,8 +367,7 @@ ex_grazelands_** - Added: T_Dae_Cre_Seduc_01 (lvl 15)
 ex_azurascoast_** - Added: T_Glb_Cre_LandDreu_01 (lvl 10)
 						   T_Glb_Cre_LandDreuDs_01 (lvl 12)
 						   T_Dae_Cre_Devourer_01 (lvl 20)
-ex_molagmar_lev** - Added: T_Dae_Cre_Guardian_01 (lvl 20)
-						   T_Dae_Cre_Verm_01 (lvl 9)
+ex_molagmar_lev** - Added: T_Dae_Cre_Verm_01 (lvl 9)
 						   T_Dae_Cre_LesserClfr_01 (lvl 5)
 ex_ascadianisles_lev** - Added: T_Mw_Fau_Orn_01 (lvl 1)
 								T_Mw_Fau_OrnQnDs_01 (lvl 2)
