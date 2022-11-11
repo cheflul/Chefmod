@@ -1,150 +1,162 @@
 ACMod - Azura's Coast Fixed
 This mod aims to fix as many visual and placement errors as possible in the Azura's Coast Region.
-Due to terrain edits, any mods in the covered area should be loaded after ACMod, otherwise the (near) vanilla terrain will be used.
+Due to terrain edits, any mods in the covered area should be loaded after ACMod, otherwise the modified vanilla terrain will be used. I tried to avoid touching cell borders for this reason.
+Any cell with "Terrain errors fixed" or "Texture seams fixed" will contain landscape edits.
 
 Full Changelog:
 7,-14
-	Removed menhirs submerged beneath the terrain x5
-	Raised a creature spawner from beneath the terrain
-	Made crate bleed into terrain less
-7,-10 (Landscape edits)
-	Smoothed terrain on east border
-	Changed a mudflat texture to sand to clear a texture seam
-8,-13 (Landscape edits)
-	Some terrain spikes smoothed out
-	Jagged terrain patch on the east cell border sand smoothed
-	Vertex shaded under 1 rock
-	Texture seam on the northeast border painted over
-	Emperor Parasol moved further out of a rock
-	Marshmarrow spread for bleeding together x2
-	Overbled saltrice raised up from terrain x3
-	Barnacle rotated to cover bottom faces
-Bal Fell 8,-12 (Landscape edits)
-	Texture seam covered with menhir on the southwest island x2
-	Underwater jagged terrain spots smoothed x3
-	Raised kreshweed for bleeding through another object x2
-	Terrain smoothing on the northwest beach
-	Floating Kreshweed lowered
-	Texture seams in the ruin painted over x7
-	Bleeding stoneflower moved out of kreshweed
-	Texture seam covered by rock on the east border, north of ex_dae_ruin_01
-	Emperor Parason raised for bleeding through a wall
-	Shaded a bit more around ruin entrance
-8,-11 (Landscape edits)
-	Jagged terrain in the southwest of the cell smoothed
-	Lowered floating black lichen in the northwest corner
-	Moved Gold Kanet that was bleeding into a stoneflower
-	Moved Stoneflower that was bleeding into surrounding flowers
-	Jagged terrain on eastern island smoothed
-Mzahnch Ruin 8,-10 (Landscape edits)
-	Moved kreshweed out of a rock x3
-	Raised Gold Kanet submerged in the terrain
-	Moved kreshweed out of another kreshweed x2
-	Moved kreshweed out of a podbud
-	Smoothed terrain on the southern island's beach
-	Raised kreshweed from bleeding through the sand
-	Smoothed some sand near the south side of the main island
-	Raised a bit of terrain to make the interior entrance not float
-	Smoothed terrain near the interior entrance
-	Smoothed terrain by the flat top rocks in the northwest
-	Smoothed terrain by the northwest tower
-	Smoothed terrain by west border menhirs
-	Changed mudflat texture to sand to clear a texture seam
-	Changed darkstone_01 texture to darkstone_02 to clear a texture seam x3
-	Changed darkstone_02 to darkstone_grass to clear a texture seam x4
-	Smoothed a bit of terrain near a ballista
-	Rotated ballista feet so it could rest properly
-	Cleared terrain spike near 2nd ballista
-	Smoothed terrain on east border
-8,-9 (Landscape edits)
-	Smoothed terrain on south border
-	Changed darkstone_01 texture to darkstone_02 to clear a texture seam x3
-	Jagged terrain on central island smoothed
-	Changed sand to darkstone_02 to clear texture seam
-	Floating rock lowered
-	Darkstone_01 changed to darkstone_02 to clear texture seam
-	Raised kelp that was sunk too deep
-9,-14 (Landscape edits)
-	Jagged terrain in southeast corner smoothed
-	h2o_all_lev-2 moved out of menhir
-	Moved kelp out of other kelp
-	ex_shore_cliffracer_lev+0 moved out of menhir
-	Jagged terrain on island smoothed
-9,-13 (Landscape edits)
-	Smoothed jagged terrain on the southern island
-	Smoothed jagged terrain on the northwest island's beach
-	Raised kelp to fix leaves bleeding through terrain
-	Changed darkstone_01 to darkstone_02 to clear texture seam
-	Moved a rock over to cover a texture seam
-	Jagged terrain on hilltop smoothed
-Bal Fell 9,-12 (Landscape edits)
-	Jagged terrain on south border smoothed
-	barnacles rotated to hide bottom faces
-	Jagged terrain on hill smoothed
-	Saltrice bleeding through other saltrice moved x2
-	Marshmarrow bleeding through saltrice moved x3
-	Kreshweed bleeding through emp parasol moved
-	AC tree bleeding through Daedric wall moved
-	Scrubruin texture changed to scrub to clear a texture seam
-	Kreshweed bleeding through Daedric wall moved
-	Jagged terrain in ruin smoothed x2
-9,-11 (Landscape edits)
-	Jagged terrain on the south side of the island smoothed
-	Texture seam in the same spot cleared
-	Jagged terrain on the west side of the island smoothed
-	Terrain spike by shipwreck cleared x2
-	crate_01_iron_weapons lowered to deck
-	Floating barnacles lowered
-9,-10 (Landscape edits)
-	Overly sunk kelp raised x2
-	Floating kollop sunk
-	Jagged terrain on west island smoothed
-	Overly sunk Gold Kanet raised x3
-	Floating kreshweed sunk
-	Texture seam on west island cleared x2
-	Floating barnacles lowered
-	Jagged terrain by east island smoothed
-	Texture seam in the same spot cleared
-	Terrain spike on south island cleared
-	Texture seam on south island cleared x2
-9,-9 (Landscape edits)
-	Floating kollop lowered
-	Overbled kelp raised x4
-	Lighting seam moved
-	Kreshweed bleeding through rock moved x2
-	Jagged terrain on island beach smoothed
-	Jagged terrain on island hill smoothed x2
-	Menhir moved to cover texture seam
-	Texture seam on norteast island cleared x2
+	Bleeding plants fixed: 1
+	Objects beneath terrain removed/raised: 6
+	
+7,-10 
+	Terrain errors fixed: 1
+	Texture seams fixed: 1
+	
+8,-13 
+	Terrain errors fixed: 3
+	Texture seams fixed: 1
+	Bleeding plants fixed: 6
+	Floating objects fixed: 1
+	
+Bal Fell 8,-12 
+	Terrain errors fixed: 5
+	Texture seams fixed: 10
+	Bleeding plants fixed: 4
+	Floating objects fixed: 1
+	
+8,-11 
+	Terrain errors fixed: 2
+	Bleeding plants fixed: 2
+	Floating objects fixed: 1
+	
+Mzahnch Ruin 8,-10 
+	Terrain errors fixed: 10
+	Texture seams fixed: 8
+	Bleeding plants fixed: 7
+	Floating objects fixed: 1
+	Objects beneath terrain removed/raised: 1
+	
+8,-9
+	Terrain errors fixed: 2
+	Texture seams fixed: 5
+	Bleeding plants fixed: 1
+	Floating objects fixed: 1
+	
+9,-14 
+	Terrain errors fixed: 2
+	Bleeding plants fixed: 1
+	Objects beneath terrain removed/raised: 2
+	
+9,-13 
+	Terrain errors fixed: 3
+	Texture seams fixed: 2
+	Bleeding plants fixed: 1
+	
+Bal Fell 9,-12 
+	Terrain errors fixed: 4
+	Texture seams fixed: 1
+	Bleeding plants fixed: 8
+	Floating objects fixed: 1
+	
+9,-11 
+	Terrain errors fixed: 4
+	Texture seams fixed: 1
+	Floating objects fixed: 2
+	
+9,-10 
+	Terrain errors fixed: 3
+	Texture seams fixed: 5
+	Bleeding plants fixed: 5
+	Floating objects fixed: 3
+	
+9,-9 
+	Terrain errors fixed: 3
+	Texture seams fixed: 3
+	Bleeding plants fixed: 6
+	Floating objects fixed: 1
+	Light emitter moved: 1
+	
 9,-8
-	Floating barnacles lowered
+	Floating objects fixed: 1
+	
 10,-14
-	h2o_all_lev-2 raised from beneath terrain
-10,-12 (Landscape edits)
-	Jagged terrain on hill x2
-	Kreshweed bleeding into rock
-10,-11 (Landscape edits)
-	Jagged terrain on beach
-	Saltrice bleeding into kreshweed
-	Saltrice bleeding into rock
-	Marshmarrow bleeding into rock
-	Jagged terrain on hill x5
-	Kreshweed floating
-	Floating rock
-	Texture seam on west island
-	Mushroom caps bleeding together
-10,-10 (Landscape edits)
-	Texture seam on west border covered
-	Floating barnacle rotated
-	Deleted plant hidden beneath terrain/rocks x3
-	Deleted menheir hidden mostly beneath terrain x2
-	Texture seam on beach covered
-	Kreshweed bleeding into rock
-	Jagged terrain on beach
-	Marshmarrow bleeding into rock
-	Floating kreshweed
-	Texture seam on hill covered x2
-	Kreshweed bleeding into rock x2
-	Inland texture seam covered x2
-10,-9
+	Objects beneath terrain removed/raised: 1 
+	
+10,-12 
+	Terrain errors fixed: 3
+	Bleeding plants fixed: 1
+	
+10,-11 
+	Terrain errors fixed: 11
+	Texture seams fixed: 1
+	Bleeding plants fixed: 6
+	Floating objects fixed: 2
+	
+10,-10 
+	Terrain errors fixed: 4
+	Texture seams fixed: 12
+	Bleeding plants fixed: 12
+	Floating objects fixed: 1
+	Objects beneath terrain removed/raised: 6
+	
+10,-9 
+	Terrain errors fixed: 6
+	Texture seams fixed: 4
+	Bleeding plants fixed: 6
+	Floating objects fixed: 3
+	Objects beneath terrain removed: 
+	Light emitter moved: 2
+
+10,-8 
+	Terrain errors fixed: 9
+	Floating objects fixed: 2
+
+11,-13
+	Terrain errors fixed: 3
+	Objects beneath terrain removed/raised: 2
+	Light emitter moved: 1
+	
+11,-12 
+	Terrain errors fixed: 7
+	Texture seams fixed: 1
+	Bleeding plants fixed: 1
+	Floating objects fixed: 3
+	Objects beneath terrain removed/raised: 1
+	Light emitter moved: 2
+	
+11,-11 
+	Terrain errors fixed: 6
+	Texture seams fixed: 2
+	Bleeding plants fixed: 4
+	Floating objects fixed: 1
+	Objects beneath terrain removed/raised: 1
+
+11,-10	
+	Terrain errors fixed: 
+	Texture seams fixed: 
+	Bleeding plants fixed: 
+	Floating objects fixed: 
+	Objects beneath terrain removed/raised: 
+	Light emitter moved: 
+	
+	Terrain errors fixed: 
+	Texture seams fixed: 
+	Bleeding plants fixed: 
+	Floating objects fixed: 
+	Objects beneath terrain removed/raised: 
+	Light emitter moved: 
+	
+	Terrain errors fixed: 
+	Texture seams fixed: 
+	Bleeding plants fixed: 
+	Floating objects fixed: 
+	Objects beneath terrain removed/raised: 
+	Light emitter moved: 
+	
+	Terrain errors fixed: 
+	Texture seams fixed: 
+	Bleeding plants fixed: 
+	Floating objects fixed: 
+	Objects beneath terrain removed/raised: 
+	Light emitter moved: 
 	
