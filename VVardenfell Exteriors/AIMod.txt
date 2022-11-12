@@ -1,0 +1,146 @@
+AIMod - Ascadian Isles patched
+This mod aims to fix as many visual and placement errors as possible in the Ascadian Isles Region.
+Due to terrain edits, any mods in the covered area should be loaded after AIMod, otherwise the modified vanilla terrain will be used. I tried to avoid touching cell borders for this reason.
+Vivec cells will be untouched for compatibility, and because there's really not much going on needing fixing. Fixes in other settlements will be optional, with a modular or combined version of AIMod.
+Any cell with "Terrain errors fixed" or "Texture seams fixed" will contain landscape edits.
+
+Full Changelog:
+7,-14
+	Floating objects fixed: 9
+	Objects beneath terrain removed/raised: 6
+	Light emitter moved: 2
+
+7,-13
+	Terrain errors fixed: 15
+	Texture seams fixed: 1
+	Bleeding plants fixed: 2
+	Floating objects fixed: 4
+	Light emitter moved: 1
+
+7,-12
+	Terrain errors fixed: 7
+	Bleeding objects fixed: 8
+	Floating objects fixed: 7
+	Light emitter moved: 3
+
+7,-11
+	Terrain errors fixed: 8
+	Texture seams fixed: 2
+	Bleeding plants fixed: 21
+	Floating objects fixed: 21
+	Objects beneath terrain removed/raised: 4
+	Light emitter moved: 1
+
+7,-10
+	Terrain errors fixed: 3
+	Texture seams fixed: 1
+	Bleeding plants fixed: 1
+	Floating objects fixed: 6
+	Objects beneath terrain removed/raised: 2
+	Light emitter moved: 1
+
+7,-9
+	Terrain errors fixed: 6
+	Texture seams fixed: 3
+	Bleeding plants fixed: 
+	Floating objects fixed: 9
+	Objects beneath terrain removed/raised: 1
+	Light emitter moved: 2
+
+	Terrain errors fixed: 
+	Texture seams fixed: 
+	Bleeding plants fixed: 
+	Floating objects fixed: 
+	Objects beneath terrain removed/raised: 
+	Light emitter moved: 
+
+	Terrain errors fixed: 
+	Texture seams fixed: 
+	Bleeding plants fixed: 
+	Floating objects fixed: 
+	Objects beneath terrain removed/raised: 
+	Light emitter moved: 
+
+	Terrain errors fixed: 
+	Texture seams fixed: 
+	Bleeding plants fixed: 
+	Floating objects fixed: 
+	Objects beneath terrain removed/raised: 
+	Light emitter moved: 
+
+	Terrain errors fixed: 
+	Texture seams fixed: 
+	Bleeding plants fixed: 
+	Floating objects fixed: 
+	Objects beneath terrain removed/raised: 
+	Light emitter moved: 
+
+	Terrain errors fixed: 
+	Texture seams fixed: 
+	Bleeding plants fixed: 
+	Floating objects fixed: 
+	Objects beneath terrain removed/raised: 
+	Light emitter moved: 
+
+	Terrain errors fixed: 
+	Texture seams fixed: 
+	Bleeding plants fixed: 
+	Floating objects fixed: 
+	Objects beneath terrain removed/raised: 
+	Light emitter moved: 
+
+	Terrain errors fixed: 
+	Texture seams fixed: 
+	Bleeding plants fixed: 
+	Floating objects fixed: 
+	Objects beneath terrain removed/raised: 
+	Light emitter moved: 
+
+	Terrain errors fixed: 
+	Texture seams fixed: 
+	Bleeding plants fixed: 
+	Floating objects fixed: 
+	Objects beneath terrain removed/raised: 
+	Light emitter moved: 
+
+	Terrain errors fixed: 
+	Texture seams fixed: 
+	Bleeding plants fixed: 
+	Floating objects fixed: 
+	Objects beneath terrain removed/raised: 
+	Light emitter moved: 
+
+	Terrain errors fixed: 
+	Texture seams fixed: 
+	Bleeding plants fixed: 
+	Floating objects fixed: 
+	Objects beneath terrain removed/raised: 
+	Light emitter moved: 
+
+	Terrain errors fixed: 
+	Texture seams fixed: 
+	Bleeding plants fixed: 
+	Floating objects fixed: 
+	Objects beneath terrain removed/raised: 
+	Light emitter moved: 
+
+	Terrain errors fixed: 
+	Texture seams fixed: 
+	Bleeding plants fixed: 
+	Floating objects fixed: 
+	Objects beneath terrain removed/raised: 
+	Light emitter moved: 
+
+	Terrain errors fixed: 
+	Texture seams fixed: 
+	Bleeding plants fixed: 
+	Floating objects fixed: 
+	Objects beneath terrain removed/raised: 
+	Light emitter moved: 
+
+	Terrain errors fixed: 
+	Texture seams fixed: 
+	Bleeding plants fixed: 
+	Floating objects fixed: 
+	Objects beneath terrain removed/raised: 
+	Light emitter moved: 
