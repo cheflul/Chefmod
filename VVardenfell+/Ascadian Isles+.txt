@@ -1,0 +1,498 @@
+AIMod - Ascadian Isles patched
+This mod aims to fix as many visual and placement errors as possible in the Ascadian Isles Region.
+Due to terrain edits, any mods in the covered area should be loaded after AIMod, otherwise the modified vanilla terrain will be used. I tried to avoid touching cell borders for this reason.
+Fixes in settlements will be optional, with a modular or combined version of AIMod.
+Any cell with "Terrain errors fixed" or "texture seams covered" will contain landscape edits.
+
+Full Changelog:
+7,-14
+	Floating objects fixed: 9
+	Objects beneath geometry removed/raised: 6
+	Light emitter moved: 2
+
+7,-13
+	Terrain errors fixed: 15
+	texture seams covered: 1
+	Bleeding objects fixed: 2
+	Floating objects fixed: 4
+	Light emitter moved: 1
+
+7,-12
+	Terrain errors fixed: 8
+	Bleeding objects fixed: 8
+	Floating objects fixed: 7
+	Light emitter moved: 3
+
+7,-11
+	Terrain errors fixed: 9
+	texture seams covered: 2
+	Bleeding objects fixed: 21
+	Floating objects fixed: 21
+	Objects beneath geometry removed/raised: 4
+	Light emitter moved: 1
+
+7,-10
+	Terrain errors fixed: 3
+	texture seams covered: 1
+	Bleeding objects fixed: 1
+	Floating objects fixed: 6
+	Objects beneath geometry removed/raised: 2
+	Light emitter moved: 1
+
+7,-9
+	Terrain errors fixed: 6
+	texture seams covered: 3
+	Bleeding objects fixed: 
+	Floating objects fixed: 9
+	Objects beneath geometry removed/raised: 1
+	Light emitter moved: 2
+
+6,-15
+	Objects beneath geometry removed/raised: 2
+
+6,-14
+	Terrain errors fixed: 6
+	Bleeding objects fixed: 2
+	Floating objects fixed: 4
+	Light emitter moved: 1
+
+6,-13
+	Terrain errors fixed: 13
+	texture seams covered: 3
+	Bleeding objects fixed: 8
+	Floating objects fixed: 8
+	Objects beneath geometry removed/raised: 1
+
+6,-12
+	Terrain errors fixed: 7
+	texture seams covered: 3
+	Bleeding objects fixed: 18
+	Floating objects fixed: 4
+	Objects beneath geometry removed/raised: 10
+	Light emitter moved: 1
+
+6,-11
+	Terrain errors fixed: 10
+	texture seams covered: 1
+	Bleeding objects fixed: 4
+	Floating objects fixed: 14
+
+6,-10
+	Terrain errors fixed: 8
+	texture seams covered: 4
+	Bleeding objects fixed: 7
+	Floating objects fixed: 3
+	Objects beneath geometry removed/raised: 4
+
+Ald Sotha 6,-9
+	Terrain errors fixed: 9
+	texture seams covered: 17
+	Bleeding objects fixed: 10
+	Floating objects fixed: 9
+
+6,-8
+	Terrain errors fixed: 8
+	texture seams covered: 2
+	Bleeding objects fixed: 5
+	Floating objects fixed: 6
+	Objects beneath geometry removed/raised: 3
+	Light emitter moved: 3
+
+Suran 6,-7
+	Terrain errors fixed: 19
+	texture seams covered: 3
+	Bleeding objects fixed: 8
+	Floating objects fixed: 9
+	Objects beneath geometry removed/raised: 1
+	Light emitter moved: 
+
+Suran 6,-6
+	Terrain errors fixed: 7
+	texture seams covered: 2
+	Bleeding objects fixed: 6
+	Floating objects fixed: 1
+	Objects beneath geometry removed/raised: 
+	Light emitter moved: 
+
+5,-14
+	Terrain errors fixed: 4
+	Bleeding objects fixed: 1
+	Floating objects fixed: 1
+	Objects beneath geometry removed/raised: 1
+
+5,-13
+	Terrain errors fixed: 5
+	Floating objects fixed: 11
+
+5,-12
+	Terrain errors fixed: 6
+	texture seams covered: 2
+	Bleeding objects fixed: 2
+	Floating objects fixed: 2
+	Light emitter moved: 1
+
+Vivec -5,-10
+	Terrain errors fixed: 2
+	texture seams covered: 
+	Bleeding objects fixed: 2
+	Floating objects fixed: 11
+
+5,-9
+	texture seams covered: 1
+	Bleeding objects fixed: 6
+	Floating objects fixed: 1
+
+5,-8
+	Terrain errors fixed: 4
+	texture seams covered: 11
+	Bleeding objects fixed: 5
+
+5,-7
+	Terrain errors fixed: 7
+	texture seams covered: 1
+	Bleeding objects fixed: 2
+	Floating objects fixed: 3
+	Objects beneath geometry removed/raised: 1
+
+5,-6
+	Terrain errors fixed: 5
+	texture seams covered: 5
+	Bleeding objects fixed: 5
+
+5,-5
+	Bleeding objects fixed: 4
+
+4,-15
+	Floating objects fixed: 2
+	Objects beneath geometry removed/raised: 1
+
+4,-9
+	Terrain errors fixed: 1
+	texture seams covered: 1
+	Bleeding objects fixed: 4
+	Floating objects fixed: 6
+	Objects beneath geometry removed/raised: 
+	Light emitter moved: 
+
+4,-8
+	Terrain errors fixed: 
+	texture seams covered: 4
+	Bleeding objects fixed: 6
+	Floating objects fixed: 
+	Objects beneath geometry removed/raised: 
+	Light emitter moved: 
+
+4,-7
+	Terrain errors fixed: 3
+	texture seams covered: 2
+	Bleeding objects fixed: 4
+	Floating objects fixed: 2
+
+4,-6
+	texture seams covered: 1
+	Bleeding objects fixed: 5
+	Floating objects fixed: 6
+
+4,-5
+	Terrain errors fixed: 1
+	texture seams covered: 4
+	Bleeding objects fixed: 7
+	
+Vivec, Foreign Quarter 3,-10
+	texture seams covered: 2 (terrain not touched)
+	Bleeding objects fixed: 2
+	Floating objects fixed: 2
+	Objects beneath geometry removed/raised: 1
+
+Vivec 3,-9
+	Terrain errors fixed: 9
+	texture seams covered: 2
+	Bleeding objects fixed: 10
+
+
+	Terrain errors fixed: 
+	texture seams covered: 
+	Bleeding objects fixed: 
+	Floating objects fixed: 
+	Objects beneath geometry removed/raised: 
+	Light emitter moved: 
+
+
+	Terrain errors fixed: 
+	texture seams covered: 
+	Bleeding objects fixed: 
+	Floating objects fixed: 
+	Objects beneath geometry removed/raised: 
+	Light emitter moved: 
+
+
+	Terrain errors fixed: 
+	texture seams covered: 
+	Bleeding objects fixed: 
+	Floating objects fixed: 
+	Objects beneath geometry removed/raised: 
+	Light emitter moved: 
+
+
+	Terrain errors fixed: 
+	texture seams covered: 
+	Bleeding objects fixed: 
+	Floating objects fixed: 
+	Objects beneath geometry removed/raised: 
+	Light emitter moved: 
+
+
+	Terrain errors fixed: 
+	texture seams covered: 
+	Bleeding objects fixed: 
+	Floating objects fixed: 
+	Objects beneath geometry removed/raised: 
+	Light emitter moved: 
+
+
+	Terrain errors fixed: 
+	texture seams covered: 
+	Bleeding objects fixed: 
+	Floating objects fixed: 
+	Objects beneath geometry removed/raised: 
+	Light emitter moved: 
+
+
+	Terrain errors fixed: 
+	texture seams covered: 
+	Bleeding objects fixed: 
+	Floating objects fixed: 
+	Objects beneath geometry removed/raised: 
+	Light emitter moved: 
+
+
+	Terrain errors fixed: 
+	texture seams covered: 
+	Bleeding objects fixed: 
+	Floating objects fixed: 
+	Objects beneath geometry removed/raised: 
+	Light emitter moved: 
+
+
+	Terrain errors fixed: 
+	texture seams covered: 
+	Bleeding objects fixed: 
+	Floating objects fixed: 
+	Objects beneath geometry removed/raised: 
+	Light emitter moved: 
+
+
+	Terrain errors fixed: 
+	texture seams covered: 
+	Bleeding objects fixed: 
+	Floating objects fixed: 
+	Objects beneath geometry removed/raised: 
+	Light emitter moved: 
+
+
+	Terrain errors fixed: 
+	texture seams covered: 
+	Bleeding objects fixed: 
+	Floating objects fixed: 
+	Objects beneath geometry removed/raised: 
+	Light emitter moved: 
+
+
+	Terrain errors fixed: 
+	texture seams covered: 
+	Bleeding objects fixed: 
+	Floating objects fixed: 
+	Objects beneath geometry removed/raised: 
+	Light emitter moved: 
+
+
+	Terrain errors fixed: 
+	texture seams covered: 
+	Bleeding objects fixed: 
+	Floating objects fixed: 
+	Objects beneath geometry removed/raised: 
+	Light emitter moved: 
+
+
+	Terrain errors fixed: 
+	texture seams covered: 
+	Bleeding objects fixed: 
+	Floating objects fixed: 
+	Objects beneath geometry removed/raised: 
+	Light emitter moved: 
+
+
+	Terrain errors fixed: 
+	texture seams covered: 
+	Bleeding objects fixed: 
+	Floating objects fixed: 
+	Objects beneath geometry removed/raised: 
+	Light emitter moved: 
+
+
+	Terrain errors fixed: 
+	texture seams covered: 
+	Bleeding objects fixed: 
+	Floating objects fixed: 
+	Objects beneath geometry removed/raised: 
+	Light emitter moved: 
+
+
+	Terrain errors fixed: 
+	texture seams covered: 
+	Bleeding objects fixed: 
+	Floating objects fixed: 
+	Objects beneath geometry removed/raised: 
+	Light emitter moved: 
+
+
+	Terrain errors fixed: 
+	texture seams covered: 
+	Bleeding objects fixed: 
+	Floating objects fixed: 
+	Objects beneath geometry removed/raised: 
+	Light emitter moved: 
+
+
+	Terrain errors fixed: 
+	texture seams covered: 
+	Bleeding objects fixed: 
+	Floating objects fixed: 
+	Objects beneath geometry removed/raised: 
+	Light emitter moved: 
+
+
+	Terrain errors fixed: 
+	texture seams covered: 
+	Bleeding objects fixed: 
+	Floating objects fixed: 
+	Objects beneath geometry removed/raised: 
+	Light emitter moved: 
+
+
+	Terrain errors fixed: 
+	texture seams covered: 
+	Bleeding objects fixed: 
+	Floating objects fixed: 
+	Objects beneath geometry removed/raised: 
+	Light emitter moved: 
+
+
+	Terrain errors fixed: 
+	texture seams covered: 
+	Bleeding objects fixed: 
+	Floating objects fixed: 
+	Objects beneath geometry removed/raised: 
+	Light emitter moved: 
+
+
+	Terrain errors fixed: 
+	texture seams covered: 
+	Bleeding objects fixed: 
+	Floating objects fixed: 
+	Objects beneath geometry removed/raised: 
+	Light emitter moved: 
+
+
+	Terrain errors fixed: 
+	texture seams covered: 
+	Bleeding objects fixed: 
+	Floating objects fixed: 
+	Objects beneath geometry removed/raised: 
+	Light emitter moved: 
+
+
+	Terrain errors fixed: 
+	texture seams covered: 
+	Bleeding objects fixed: 
+	Floating objects fixed: 
+	Objects beneath geometry removed/raised: 
+	Light emitter moved: 
+
+
+	Terrain errors fixed: 
+	texture seams covered: 
+	Bleeding objects fixed: 
+	Floating objects fixed: 
+	Objects beneath geometry removed/raised: 
+	Light emitter moved: 
+
+
+	Terrain errors fixed: 
+	texture seams covered: 
+	Bleeding objects fixed: 
+	Floating objects fixed: 
+	Objects beneath geometry removed/raised: 
+	Light emitter moved: 
+
+
+	Terrain errors fixed: 
+	texture seams covered: 
+	Bleeding objects fixed: 
+	Floating objects fixed: 
+	Objects beneath geometry removed/raised: 
+	Light emitter moved: 
+
+
+	Terrain errors fixed: 
+	texture seams covered: 
+	Bleeding objects fixed: 
+	Floating objects fixed: 
+	Objects beneath geometry removed/raised: 
+	Light emitter moved: 
+
+
+	Terrain errors fixed: 
+	texture seams covered: 
+	Bleeding objects fixed: 
+	Floating objects fixed: 
+	Objects beneath geometry removed/raised: 
+	Light emitter moved: 
+
+
+	Terrain errors fixed: 
+	texture seams covered: 
+	Bleeding objects fixed: 
+	Floating objects fixed: 
+	Objects beneath geometry removed/raised: 
+	Light emitter moved: 
+
+
+	Terrain errors fixed: 
+	texture seams covered: 
+	Bleeding objects fixed: 
+	Floating objects fixed: 
+	Objects beneath geometry removed/raised: 
+	Light emitter moved: 
+
+
+	Terrain errors fixed: 
+	texture seams covered: 
+	Bleeding objects fixed: 
+	Floating objects fixed: 
+	Objects beneath geometry removed/raised: 
+	Light emitter moved: 
+
+
+	Terrain errors fixed: 
+	texture seams covered: 
+	Bleeding objects fixed: 
+	Floating objects fixed: 
+	Objects beneath geometry removed/raised: 
+	Light emitter moved: 
+
+
+	Terrain errors fixed: 
+	texture seams covered: 
+	Bleeding objects fixed: 
+	Floating objects fixed: 
+	Objects beneath geometry removed/raised: 
+	Light emitter moved: 
+
+
+	Terrain errors fixed: 
+	texture seams covered: 
+	Bleeding objects fixed: 
+	Floating objects fixed: 
+	Objects beneath geometry removed/raised: 
+	Light emitter moved: 
