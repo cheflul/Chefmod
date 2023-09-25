@@ -1,0 +1,16 @@
+Ascadian Isles+ Suran plugin
+This plugin is a lightweight patch for the 2 Suran exterior cells.
+
+Edits:
+Suran 6,-7
+	Terrain errors fixed: 19
+	texture seams covered: 3
+	Bleeding objects fixed: 8
+	Floating objects fixed: 9
+	Objects beneath geometry removed/raised: 1
+
+Suran 6,-6
+	Terrain errors fixed: 7
+	texture seams covered: 2
+	Bleeding objects fixed: 6
+	Floating objects fixed: 1

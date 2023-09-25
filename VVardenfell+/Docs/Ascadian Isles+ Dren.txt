@@ -1,0 +1,9 @@
+Ascadian Isles+ Dren Plantation plugin
+This plugin is a lightweight patch for the exterior of Dren Plantation
+
+Edits:
+Dren Plantation 2,-7
+	Terrain errors fixed: 6
+	texture seams covered: 8
+	Bleeding objects fixed: 10
+	Floating objects fixed: 7
