@@ -3,36 +3,26 @@ This is the main plugin for fixing exterior errors throughout the region. Most n
 
 Edits:
 -4,-4
-	Terrain errors fixed: 
-	texture seams covered: 
-	Bleeding objects fixed: 
-	Floating objects fixed: 
-	Objects beneath geometry removed/raised: 
-	Light emitter moved: 
+	Terrain errors fixed: 6
+	texture seams covered: 6
+	Bleeding objects fixed: 5
+	Objects beneath geometry removed/raised: 1
 
 -3,-4
-	Terrain errors fixed: 
-	texture seams covered: 
-	Bleeding objects fixed: 
-	Floating objects fixed: 
-	Objects beneath geometry removed/raised: 
-	Light emitter moved: 
+	Terrain errors fixed: 5
+	texture seams covered: 3
+	Bleeding objects fixed: 6
+	Objects beneath geometry removed/raised: 1
 
 -2,-4
-	Terrain errors fixed: 
-	texture seams covered: 
-	Bleeding objects fixed: 
-	Floating objects fixed: 
-	Objects beneath geometry removed/raised: 
-	Light emitter moved: 
+	Terrain errors fixed: 2
+	texture seams covered: 1
 
 -1,-4
-	Terrain errors fixed: 
-	texture seams covered: 
-	Bleeding objects fixed: 
-	Floating objects fixed: 
-	Objects beneath geometry removed/raised: 
-	Light emitter moved: 
+	Terrain errors fixed: 3
+	texture seams covered: 2
+	Bleeding objects fixed: 3
+	Objects beneath geometry removed/raised: 1
 
 0,-4
 	Terrain errors fixed: 
