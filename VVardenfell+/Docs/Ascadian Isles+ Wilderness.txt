@@ -25,36 +25,23 @@ Edits:
 	Objects beneath geometry removed/raised: 1
 
 0,-4
-	Terrain errors fixed: 
-	texture seams covered: 
-	Bleeding objects fixed: 
-	Floating objects fixed: 
-	Objects beneath geometry removed/raised: 
-	Light emitter moved: 
+	Terrain errors fixed: 2
+	Bleeding objects fixed: 10
 
 1,-4
-	Terrain errors fixed: 
-	texture seams covered: 
-	Bleeding objects fixed: 
-	Floating objects fixed: 
-	Objects beneath geometry removed/raised: 
-	Light emitter moved: 
+	Terrain errors fixed: 3
+	Bleeding objects fixed: 17
+	Objects beneath geometry removed/raised: 3
 
 2,-4
-	Terrain errors fixed: 
-	texture seams covered: 
-	Bleeding objects fixed: 
-	Floating objects fixed: 
-	Objects beneath geometry removed/raised: 
-	Light emitter moved: 
+	Terrain errors fixed: 2
+	texture seams covered: 2
+	Bleeding objects fixed: 17
+	Objects beneath geometry removed/raised: 2
 
 3,-4
-	Terrain errors fixed: 
-	texture seams covered: 
-	Bleeding objects fixed: 
-	Floating objects fixed: 
-	Objects beneath geometry removed/raised: 
-	Light emitter moved: 
+	texture seams covered: 6
+	Bleeding objects fixed: 2
 
 -4,-5
 	Terrain errors fixed: 
@@ -62,7 +49,6 @@ Edits:
 	Bleeding objects fixed: 
 	Floating objects fixed: 
 	Objects beneath geometry removed/raised: 
-	Light emitter moved: 
 
 -3,-5
 	Terrain errors fixed: 
@@ -70,7 +56,6 @@ Edits:
 	Bleeding objects fixed: 
 	Floating objects fixed: 
 	Objects beneath geometry removed/raised: 
-	Light emitter moved: 
 
 -2,-5
 	Terrain errors fixed: 
@@ -78,7 +63,6 @@ Edits:
 	Bleeding objects fixed: 
 	Floating objects fixed: 
 	Objects beneath geometry removed/raised: 
-	Light emitter moved: 
 
 -1,-5
 	Terrain errors fixed: 
@@ -86,7 +70,6 @@ Edits:
 	Bleeding objects fixed: 
 	Floating objects fixed: 
 	Objects beneath geometry removed/raised: 
-	Light emitter moved: 
 
 0,-5
 	Terrain errors fixed: 
@@ -94,7 +77,6 @@ Edits:
 	Bleeding objects fixed: 
 	Floating objects fixed: 
 	Objects beneath geometry removed/raised: 
-	Light emitter moved: 
 
 1,-5
 	Terrain errors fixed: 
@@ -102,7 +84,6 @@ Edits:
 	Bleeding objects fixed: 
 	Floating objects fixed: 
 	Objects beneath geometry removed/raised: 
-	Light emitter moved: 
 
 2,-5
 	Terrain errors fixed: 
@@ -110,7 +91,6 @@ Edits:
 	Bleeding objects fixed: 
 	Floating objects fixed: 
 	Objects beneath geometry removed/raised: 
-	Light emitter moved: 
 
 3,-5
 	Terrain errors fixed: 
@@ -118,7 +98,6 @@ Edits:
 	Bleeding objects fixed: 
 	Floating objects fixed: 
 	Objects beneath geometry removed/raised: 
-	Light emitter moved: 
 
 4,-5
 	Terrain errors fixed: 1
@@ -134,7 +113,6 @@ Edits:
 	Bleeding objects fixed: 
 	Floating objects fixed: 
 	Objects beneath geometry removed/raised: 
-	Light emitter moved: 
 
 -2,-6
 	Terrain errors fixed: 
@@ -142,7 +120,6 @@ Edits:
 	Bleeding objects fixed: 
 	Floating objects fixed: 
 	Objects beneath geometry removed/raised: 
-	Light emitter moved: 
 
 -1,-6
 	Terrain errors fixed: 
@@ -150,7 +127,6 @@ Edits:
 	Bleeding objects fixed: 
 	Floating objects fixed: 
 	Objects beneath geometry removed/raised: 
-	Light emitter moved: 
 
 0,-6
 	Terrain errors fixed: 
@@ -158,7 +134,6 @@ Edits:
 	Bleeding objects fixed: 
 	Floating objects fixed: 
 	Objects beneath geometry removed/raised: 
-	Light emitter moved: 
 
 1,-6
 	Terrain errors fixed: 
@@ -166,7 +141,6 @@ Edits:
 	Bleeding objects fixed: 
 	Floating objects fixed: 
 	Objects beneath geometry removed/raised: 
-	Light emitter moved: 
 
 2,-6
 	Terrain errors fixed: 
@@ -174,7 +148,6 @@ Edits:
 	Bleeding objects fixed: 
 	Floating objects fixed: 
 	Objects beneath geometry removed/raised: 
-	Light emitter moved: 
 
 3,-6
 	Terrain errors fixed: 
@@ -182,7 +155,6 @@ Edits:
 	Bleeding objects fixed: 
 	Floating objects fixed: 
 	Objects beneath geometry removed/raised: 
-	Light emitter moved: 
 
 4,-6
 	texture seams covered: 1
@@ -200,7 +172,6 @@ Edits:
 	Bleeding objects fixed: 
 	Floating objects fixed: 
 	Objects beneath geometry removed/raised: 
-	Light emitter moved: 
 
 -2,-7
 	Terrain errors fixed: 
@@ -208,7 +179,6 @@ Edits:
 	Bleeding objects fixed: 
 	Floating objects fixed: 
 	Objects beneath geometry removed/raised: 
-	Light emitter moved: 
 
 -1,-7
 	Terrain errors fixed: 
@@ -216,7 +186,6 @@ Edits:
 	Bleeding objects fixed: 
 	Floating objects fixed: 
 	Objects beneath geometry removed/raised: 
-	Light emitter moved: 
 
 1,-7
 	Terrain errors fixed: 
@@ -224,7 +193,6 @@ Edits:
 	Bleeding objects fixed: 
 	Floating objects fixed: 
 	Objects beneath geometry removed/raised: 
-	Light emitter moved: 
 
 3,-7
 	Terrain errors fixed: 
@@ -232,7 +200,6 @@ Edits:
 	Bleeding objects fixed: 
 	Floating objects fixed: 
 	Objects beneath geometry removed/raised: 
-	Light emitter moved: 
 
 4,-7
 	Terrain errors fixed: 3
@@ -253,7 +220,6 @@ Edits:
 	Bleeding objects fixed: 
 	Floating objects fixed: 
 	Objects beneath geometry removed/raised: 
-	Light emitter moved: 
 
 1,-8
 	Terrain errors fixed: 
@@ -261,7 +227,6 @@ Edits:
 	Bleeding objects fixed: 
 	Floating objects fixed: 
 	Objects beneath geometry removed/raised: 
-	Light emitter moved: 
 
 2,-8
 	Terrain errors fixed: 
@@ -269,7 +234,6 @@ Edits:
 	Bleeding objects fixed: 
 	Floating objects fixed: 
 	Objects beneath geometry removed/raised: 
-	Light emitter moved: 
 
 3,-8
 	Terrain errors fixed: 
@@ -277,7 +241,6 @@ Edits:
 	Bleeding objects fixed: 
 	Floating objects fixed: 
 	Objects beneath geometry removed/raised: 
-	Light emitter moved: 
 
 4,-8
 	Terrain errors fixed: 
@@ -285,7 +248,6 @@ Edits:
 	Bleeding objects fixed: 6
 	Floating objects fixed: 
 	Objects beneath geometry removed/raised: 
-	Light emitter moved: 
 
 5,-8
 	Terrain errors fixed: 4
@@ -298,7 +260,6 @@ Edits:
 	Bleeding objects fixed: 5
 	Floating objects fixed: 6
 	Objects beneath geometry removed/raised: 3
-	Light emitter moved: 3
 	
 0,-9
 	Terrain errors fixed: 
@@ -306,7 +267,6 @@ Edits:
 	Bleeding objects fixed: 
 	Floating objects fixed: 
 	Objects beneath geometry removed/raised: 
-	Light emitter moved: 
 	
 1,-9
 	Terrain errors fixed: 
@@ -314,7 +274,6 @@ Edits:
 	Bleeding objects fixed: 
 	Floating objects fixed: 
 	Objects beneath geometry removed/raised: 
-	Light emitter moved: 
 
 2,-9
 	Terrain errors fixed: 
@@ -322,7 +281,6 @@ Edits:
 	Bleeding objects fixed: 
 	Floating objects fixed: 
 	Objects beneath geometry removed/raised: 
-	Light emitter moved: 
 
 4,-9
 	Terrain errors fixed: 1
@@ -330,7 +288,6 @@ Edits:
 	Bleeding objects fixed: 4
 	Floating objects fixed: 6
 	Objects beneath geometry removed/raised: 
-	Light emitter moved: 
 
 5,-9
 	texture seams covered: 1
@@ -349,7 +306,6 @@ Edits:
 	Bleeding objects fixed: 
 	Floating objects fixed: 9
 	Objects beneath geometry removed/raised: 1
-	Light emitter moved: 2
 
 1,-10
 	Terrain errors fixed: 
@@ -357,7 +313,6 @@ Edits:
 	Bleeding objects fixed: 
 	Floating objects fixed: 
 	Objects beneath geometry removed/raised: 
-	Light emitter moved: 
 
 6,-10
 	Terrain errors fixed: 8
@@ -372,7 +327,6 @@ Edits:
 	Bleeding objects fixed: 1
 	Floating objects fixed: 6
 	Objects beneath geometry removed/raised: 2
-	Light emitter moved: 1
 
 1,-11
 	Terrain errors fixed: 
@@ -380,7 +334,6 @@ Edits:
 	Bleeding objects fixed: 
 	Floating objects fixed: 
 	Objects beneath geometry removed/raised: 
-	Light emitter moved: 
 
 6,-11
 	Terrain errors fixed: 10
@@ -394,7 +347,6 @@ Edits:
 	Bleeding objects fixed: 21
 	Floating objects fixed: 21
 	Objects beneath geometry removed/raised: 4
-	Light emitter moved: 1
 
 1,-12
 	Terrain errors fixed: 
@@ -402,7 +354,6 @@ Edits:
 	Bleeding objects fixed: 
 	Floating objects fixed: 
 	Objects beneath geometry removed/raised: 
-	Light emitter moved: 
 
 2,-12
 	Terrain errors fixed: 
@@ -410,14 +361,12 @@ Edits:
 	Bleeding objects fixed: 
 	Floating objects fixed: 
 	Objects beneath geometry removed/raised: 
-	Light emitter moved: 
 	
 5,-12
 	Terrain errors fixed: 6
 	texture seams covered: 2
 	Bleeding objects fixed: 2
 	Floating objects fixed: 2
-	Light emitter moved: 1
 
 6,-12
 	Terrain errors fixed: 7
@@ -425,13 +374,11 @@ Edits:
 	Bleeding objects fixed: 18
 	Floating objects fixed: 4
 	Objects beneath geometry removed/raised: 10
-	Light emitter moved: 1
 
 7,-12
 	Terrain errors fixed: 8
 	Bleeding objects fixed: 8
 	Floating objects fixed: 7
-	Light emitter moved: 3
 
 5,-13
 	Terrain errors fixed: 5
@@ -449,7 +396,6 @@ Edits:
 	texture seams covered: 1
 	Bleeding objects fixed: 2
 	Floating objects fixed: 4
-	Light emitter moved: 1
 
 1,-14
 	Terrain errors fixed: 
@@ -457,7 +403,6 @@ Edits:
 	Bleeding objects fixed: 
 	Floating objects fixed: 
 	Objects beneath geometry removed/raised: 
-	Light emitter moved: 
 
 2,-14
 	Terrain errors fixed: 
@@ -465,7 +410,6 @@ Edits:
 	Bleeding objects fixed: 
 	Floating objects fixed: 
 	Objects beneath geometry removed/raised: 
-	Light emitter moved: 
 
 5,-14
 	Terrain errors fixed: 4
@@ -477,12 +421,10 @@ Edits:
 	Terrain errors fixed: 6
 	Bleeding objects fixed: 2
 	Floating objects fixed: 4
-	Light emitter moved: 1
 
 7,-14
 	Floating objects fixed: 9
 	Objects beneath geometry removed/raised: 6
-	Light emitter moved: 2
 
 4,-15
 	Floating objects fixed: 2

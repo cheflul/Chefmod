@@ -1,4 +1,97 @@
----------------------------------------- Leveled Items --------------------------------------------
+--------------------------------------- Cities and Places -----------------------------------------
+Ald-ruhn
+	Added Redoran watchmen
+	Replaced temple with 2 layer version
+	Dandera Selaro now sells Redoran Watchman
+	Tiras Sadus now sells chitin javelins
+	Llether Vari now sells a Dreugh Flamecleaver
+	furn_bannerd_ench_vari now uses tr\f\tr_act_banner_ench_01.nif
+	Bivale Teneran now sells some TD clothes
+	heem_la in the Mages Guild sells T_Com_Cnj_BoundPauldron
+Buckmoth
+	Imsin the Dreamer now has a Templar sword
+	Orc Smith now sells legion katanas and spears
+	cocistian quaspus now wears a Colovian robe and has a Colovian face
+Maar Gan
+	Added Redoran watchmen
+Balmora
+	Added Dunmer grafiti decals
+	Replaced temple with 2 layer version
+	Changed furn_banner_tavern_eightplates to use tr\f\tr_act_banner_inn_04.nif
+	Changed furn_banner_tavern_luckylock to use tr\f\tr_act_banner_inn_01.nif
+	Changed furn_bannerd_trader_ravirr to use tf\f\tr_act_banner_trade_02.nif
+	Meldor: Armorer now sells T_De_Chitin_PioneerHelm_02 and Chuzei
+	Clagius Clanler: Outfitter now sells cheap TD clutter and Llotham
+	Ra'Virr: Trader now sells Iron Javelins and Netch Rogue gear
+	Lucky Lockup has some broken junk
+	The Razor Hole now sells a Dreugh shortsword and iron javelins
+	Guild of Mages uses TD Mages Guild tapestries
+Suran
+	Added Wall art decals
+	Garothmuk gro-Muzgub: Smith now sells Dreugh boots, chuzuei bonemold and an orc crossbow
+	Ralds Oril: Trader now sells Dreugh greaves
+	Goldyn Belaram: Pawnbroker sells a Templar shortsword
+Caldera
+	Mages guild uses TD tapestries
+	medila indaren sells Summon vermai and rock chisel clannfear
+	Falanaamo now sells colovian robes
+Vivec
+	Fighters guild sells iron and silver javelins
+	Mages guild uses TD tapestries
+	Malven Romori sells summon vermai and lesser clannfear
+Ghostgate
+	Selmen Relas given Ordinator greaves and scimitar
+	Teril Savani given TD robe
+	Fonas Retheran sells a chitin crossbow
+	Elvasea Thalas wears chuzuei
+	Dronos Llervu sells chuzuei
+	Replaced a generic weapon crate with a dreugh weapon crate
+	ferone veran given ordinator greaves and mace
+	faras thirano given TD robe
+------------------------------------------- Dungeons ----------------------------------------------
+Odrosal, Dwemer Training Academy
+	Added T_Dwe_Hammer_Repair_01
+	Added Dwarven junk stars
+Endusal, Kagrenac's study
+	Added Ebony crossbow
+Vemynal
+	Added 6th house sword
+Ashmelech
+	Gladroon sells Dwemer repair hammers
+Urshilaku
+	Replaced repair_journeyman_01 with T_Dwe_Hammer_Repair_01
+Assemanu, Shrine
+	Added T_De_6th_Sickle_01
+Ularradallaku, Shrine
+	Added T_IngMine_FireOpal_01
+Solstheim, Castle Karstaag, Throne Room
+	Added T_IngMine_IceCrystal_01
+---------------------------------------------- NPC -------------------------------------------------
+manicky - Added: T_Dwe_Hammer_Repair_01
+All ordinators Added T_De_Ordinator_Greaves_01 and replaced ebony mace with T_De_Indoril_Mace_01
+nalosi alari Added T_De_Ordinator_Greaves_01 and replaced steel longsword with T_De_Indoril_Scimitar_01
+Vaval Orethi - Replaced: chitin_watchman_helm with T_De_Chitin_PioneerHelm_01
+telvanni guard/stand/sharpshooter Replaced: bonemold with T_De_TelvCephalopod_**
+general darius - Replaced: imperial broadsword with T_Imp_Templar_Longsword_01
+dead ordinator_key - Replaced: l_n_wpn_melee_long blade with T_De_Indoril_Spear_01
+jamie - Replaced: common_shirt_05 with T_De_Cm_Shirt_09
+movisa andas - Replaced: Bonemold with chuzei bonemold
+felen maryon - Added: T_Com_Cnj_SummonDevourer
+					  T_Com_Cnj_SummonOgrim
+					  T_Com_Cnj_SummonSeducer
+diren vendu - Added: T_Com_Cnj_SummonDremoraArcher
+					 T_Com_Cnj_SummonDremoraCaster
+					 T_Com_Cnj_BoundWarAxe
+ferise varo - Added: T_Com_Cnj_BoundPauldron
+solea nuccusius - Added: T_Com_Cnj_BoundGreaves
+						 T_Com_Cnj_BoundWarhammer
+erer darothril - Added: T_Com_Cnj_BoundGreaves
+						T_Com_Cnj_BoundWarAxe
+						T_Com_Cnj_SummonDremoraArcher
+						T_Com_Cnj_SummonDremoraCaster
+						T_Com_Cnj_SummonOgrim
+						T_Com_Cnj_SummonVermai
+----------------------------------------- Leveled Items --------------------------------------------
 l_n_repair item - Added: 
 	T_Dwe_Hammer_Repair_01 (lvl 10)
 random_drinks_01 - Added: 
@@ -307,7 +400,7 @@ random_de_weapon - Added:
 	T_De_Chitin_Longsword_01
 	T_De_Corkbulb_Staff_01/02
 	T_De_Wooden_Staff_01/02
--------------------------------------- Leveled Creatures ------------------------------------------
+--------------------------------------- Leveled Creatures ------------------------------------------
 h2o_all_lev** - Added: 
 	T_Mw_Fau_BlindSlauFi_01 (lvl 3)
 ex_grazelands_** - Added: 
@@ -348,14 +441,16 @@ bm_ex_horker_lake - Added:
 	T_Glb_Fau_HorkerWhit_01 (lvl 1)
 bm_ex_horker_h20 - Added:
 	T_Glb_Fau_HorkerWhit_02
--------------------------------------- Generic Containers -----------------------------------------
+--------------------------------------- Other Containers -------------------------------------------
+dwrv_chest10 + dwrv_chest_Bam - Replaced: repair_journeyman_01 with T_Dwe_Hammer_Repair_01
+dwrv_chest10_kjeld - Added: T_Dwe_Hammer_Repair_01
 com_cupboard_01_booze - Added: T_De_Drink_LiquorLlotham_01
+de_p_desk_nuncius - Added: T_De_Drink_LiquorLlotham_01
 com_chest_02_v_trader02 - Added: -3 T_Mw_Random_ClutterStoneware
-								 -10 T_Com_Iron_Javelin_01
-com_chest_02_v_trader01 - Added: -10 T_De_Chitin_Javelin_01
-com_chest_02_v_weapon06 - Added: -10 T_Com_Iron_Javelin_01
-com_chest_02_v_weapon09 - Added: -1 T_Imp_Legion_Katana_01
-								 -1 T_Imp_Legion_Spear_01
-com_closet_01_fg - Added: -5 T_Com_Silver_Javelin_01
-						  -15 T_Com_Iron_Javelin_01
-dwrv_chest10 - Added: 1 T_Dwe_Hammer_Repair_01
+
+Add:
+-Rubies in coastal caves
+-Chuzuei set
+-Hand place some watchman stuff
+-Hand place some adamantium stuff
+-Hand place some indoril stuff
