@@ -66,25 +66,21 @@ Edits:
 	Objects beneath geometry removed/raised: 1
 
 0,-5
-	Terrain errors fixed: 
-	texture seams covered: 
-	Bleeding objects fixed: 
-	Floating objects fixed: 
-	Objects beneath geometry removed/raised: 
+	Terrain errors fixed: 7
+	texture seams covered: 2
+	Bleeding objects fixed: 7
+	Floating objects fixed: 8
 
-1,-5
-	Terrain errors fixed: 
-	texture seams covered: 
-	Bleeding objects fixed: 
-	Floating objects fixed: 
-	Objects beneath geometry removed/raised: 
+Fields of Kummu 1,-5
+	Terrain errors fixed: 3
+	texture seams covered: 1
+	Bleeding objects fixed: 5
 
 2,-5
-	Terrain errors fixed: 
-	texture seams covered: 
-	Bleeding objects fixed: 
-	Floating objects fixed: 
-	Objects beneath geometry removed/raised: 
+	Terrain errors fixed: 6
+	texture seams covered: 5
+	Bleeding objects fixed: 3
+	Floating objects fixed: 3
 
 3,-5
 	Terrain errors fixed: 
