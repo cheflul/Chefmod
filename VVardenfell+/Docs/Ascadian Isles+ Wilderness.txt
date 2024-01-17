@@ -5,7 +5,7 @@ Edits:
 -4,-4
 	Terrain errors fixed: 6
 	texture seams covered: 6
-	Bleeding objects fixed: 5
+	Bleeding objects fixed: 6
 	Objects beneath geometry removed/raised: 1
 
 -3,-4
@@ -44,32 +44,26 @@ Edits:
 	Bleeding objects fixed: 2
 
 -4,-5
-	Terrain errors fixed: 
-	texture seams covered: 
-	Bleeding objects fixed: 
-	Floating objects fixed: 
-	Objects beneath geometry removed/raised: 
+	Terrain errors fixed: 3
+	texture seams covered: 6
+	Bleeding objects fixed: 7
 
 -3,-5
-	Terrain errors fixed: 
-	texture seams covered: 
-	Bleeding objects fixed: 
-	Floating objects fixed: 
-	Objects beneath geometry removed/raised: 
+	Terrain errors fixed: 1
+	texture seams covered: 6
+	Objects beneath geometry removed/raised: 1
 
 -2,-5
-	Terrain errors fixed: 
-	texture seams covered: 
-	Bleeding objects fixed: 
-	Floating objects fixed: 
-	Objects beneath geometry removed/raised: 
+	Terrain errors fixed: 2
+	texture seams covered: 11
+	Bleeding objects fixed: 7
 
 -1,-5
-	Terrain errors fixed: 
-	texture seams covered: 
-	Bleeding objects fixed: 
-	Floating objects fixed: 
-	Objects beneath geometry removed/raised: 
+	Terrain errors fixed: 5
+	texture seams covered: 3
+	Bleeding objects fixed: 8
+	Floating objects fixed: 2
+	Objects beneath geometry removed/raised: 1
 
 0,-5
 	Terrain errors fixed: 

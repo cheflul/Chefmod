@@ -17,15 +17,20 @@ l_n_armor_boots - Added:
 	T_De_RedoranWatchman_Boots (lvl 4)
 	T_De_TelvCephalopod_Boots_01 (lvl 1)
 	T_Nor_Iron_Boots_01 (lvl 4)
-	T_Nor_Ringmail_Boots_02 (lvl 4)
+	T_Nor_Ringmail_Boots_02 (lvl 1)
+	T_De_KagoutiHide_Boots_01 (lvl 4)
 l_n_armor_bracers - Added:
 	T_De_Dreugh_BracerL_01/R_01 (lvl 13)
-	T_Nor_Ringmail_BracerL_01/R_02 (lvl 4)
+	T_Nor_Ringmail_BracerL_01/R_01 (lvl 1)
+	T_De_KagoutiHide_BracerL_01/R_01 (lvl 4)
 l_n_armor_cuirass - Added: 
 	T_De_Netch_Cuirass_01 (lvl 1)
 	T_De_NetchRogue_Cuirass_01 (lvl 1)
 	T_De_RedoranWatchman_Cuirass (lvl 4)
 	T_De_TelvCephalopod_Cuirass_01 (lvl 1)
+	T_De_KagoutiHide_Cuirass_01 (lvl 4)
+l_n_armor_cuirass - Changed: 
+	nordic_ringmail_cuirass to lvl 1
 l_n_armor_gauntlet - Added:
 	T_De_RedoranWatchman_GauntletL/R (lvl 4)
 	T_De_TelvCephalopod_GauntL_01/R_01 (lvl 1)
@@ -36,16 +41,20 @@ l_n_armor_greaves - Added:
 	T_De_RedoranWatchman_Greaves (lvl 4)
 	T_De_TelvCephalopod_Greaves_01 (lvl 1)
 	T_Nor_Iron_Greaves_01 (lvl 4)
-	T_Nor_Ringmail_Greaves_02 (lvl 4)
+	T_Nor_Ringmail_Greaves_02 (lvl 1)
+	T_De_KagoutiHide_Greaves_01 (lvl 4)
 l_n_armor_helmet - Added: 
 	T_De_Dreugh_Helm_Closed (lvl 11)
-	 T_De_Dreugh_Hunter_Helm_01 (lvl 11)
+	T_De_Dreugh_Hunter_Helm_01 (lvl 11)
 	T_De_Chitin_PioneerHelm_01 (lvl 4)
 	T_De_Caravaner_Helm_01 (lvl 1)
 	T_De_NetchRogue_Helm_01/02 (lvl 1)
 	T_De_NetchStalker_Helm_01 (lvl 1)
 	chitin_watchman_helm (lvl 4)
-	T_Nor_Ringmail_Helmet_02 (lvl 40)
+	T_Nor_Ringmail_Helmet_02 (lvl 1)
+	T_Nor_Ringmail_Helm_Closed (lvl 1)
+	T_De_KagoutiHide_Helm_01 (lvl 4)
+	T_De_KagoutiHide_HelmOpen_01 (lvl 4)
 l_n_armor_pauldron - Added: 
 	T_De_Dreugh_PauldronL_01/R_01 (lvl 17)
 	T_De_Chitin_PauldrL_01/R_01 (lvl 1)
@@ -53,6 +62,10 @@ l_n_armor_pauldron - Added:
 	T_De_TelvCephalopod_PauldL_01/R_01 (lvl 1)
 	T_Nor_Iron_PauldronL_01/R_01 (lvl 4)
 	T_Nor_Ringmail_PauldronL_02/R_02 (lvl 4)
+	T_De_KagoutiHide_PauldronL_01/R_01 (lvl 4)
+l_n_armor_shields - Added:
+	T_De_KagoutiHide_Shield_01/02 (lvl 4)
+	T_De_KagoutiHide_TowerShield_01 (lvl 6)
 l_n_wpn_melee_axe - Added:
 	T_Nor_Orn_WarAxe_01 (lvl 8)
 	T_De_Dreugh_Waraxe_01 (lvl 10)
