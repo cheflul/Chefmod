@@ -41,7 +41,7 @@ Edits:
 
 3,-4
 	texture seams covered: 6
-	Bleeding objects fixed: 2
+	Bleeding objects fixed: 3
 
 -4,-5
 	Terrain errors fixed: 3
@@ -83,11 +83,9 @@ Fields of Kummu 1,-5
 	Floating objects fixed: 3
 
 3,-5
-	Terrain errors fixed: 
-	texture seams covered: 
-	Bleeding objects fixed: 
-	Floating objects fixed: 
-	Objects beneath geometry removed/raised: 
+	Terrain errors fixed: 4
+	Bleeding objects fixed: 3
+	Floating objects fixed: 4
 
 4,-5
 	Terrain errors fixed: 1
@@ -98,11 +96,9 @@ Fields of Kummu 1,-5
 	Bleeding objects fixed: 4
 
 -3,-6
-	Terrain errors fixed: 
-	texture seams covered: 
-	Bleeding objects fixed: 
-	Floating objects fixed: 
-	Objects beneath geometry removed/raised: 
+	Terrain errors fixed: 5
+	Bleeding objects fixed: 7
+	Objects beneath geometry removed/raised: 1
 
 -2,-6
 	Terrain errors fixed: 
