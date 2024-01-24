@@ -101,11 +101,10 @@ Fields of Kummu 1,-5
 	Objects beneath geometry removed/raised: 1
 
 -2,-6
-	Terrain errors fixed: 
-	texture seams covered: 
-	Bleeding objects fixed: 
-	Floating objects fixed: 
-	Objects beneath geometry removed/raised: 
+	Terrain errors fixed: 4
+	texture seams covered: 4
+	Bleeding objects fixed: 4
+	Floating objects fixed: 1
 
 -1,-6
 	Terrain errors fixed: 
