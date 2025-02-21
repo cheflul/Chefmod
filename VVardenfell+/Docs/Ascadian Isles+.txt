@@ -1,0 +1,51 @@
+Ascadian Isles+ wilderness plugin
+This is changelog for only the fixes of exterior errors throughout the region. Most cells are covered, unless they fit better in a seperate Vvardenfell+ plugin, or in the rare case of no errors.
+
+Last edited: January 10th 2024
+
+Wilderness plugin stats:
+	Cells edited: 46
+	Terrain errors fixed: 201
+	Texture seams covered: 127
+	Bleeding objects fixed: 260
+	Floating objects fixed: 148
+	Objects beneath geometry removed/raised: 55
+	
+Vivec plugin stats:
+	Cells edited: 6 (3,-9 / 2,-10 / 3,-10 / 5,-10 / 2,-11 / 3,-14)
+	Terrain errors fixed: 20
+	Texture seams covered: 4
+	Bleeding objects fixed: 22
+	Floating objects fixed: 17
+	Objects beneath geometry removed/raised: 1
+
+Suran plugin stats:
+	Cells edited: 2 (both)
+	Terrain errors fixed: 26
+	Texture seams covered: 5
+	Bleeding objects fixed: 14
+	Floating objects fixed: 10
+	Objects beneath geometry removed/raised: 1
+	
+Dren Plantation plugin stats:
+	Cell edited: yes
+	Terrain errors fixed: 6
+	texture seams covered: 8
+	Bleeding objects fixed: 10
+	Floating objects fixed: 7
+	
+Pelagiad plugin stats:
+	Cells edited: 
+	Terrain errors fixed: 
+	Texture seams covered: 
+	Bleeding objects fixed: 
+	Floating objects fixed: 
+	Objects beneath geometry removed/raised: 
+	
+Ebonheart plugin stats:
+	Cells edited: 
+	Terrain errors fixed: 
+	Texture seams covered: 
+	Bleeding objects fixed: 
+	Floating objects fixed: 
+	Objects beneath geometry removed/raised: 

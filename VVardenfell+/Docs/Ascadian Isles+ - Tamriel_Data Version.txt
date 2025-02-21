@@ -1,0 +1,51 @@
+Ascadian Isles+ Suran plugin
+These plugins cover BOTH the fixes from the non TD version of Ascadian Isles+ and new additions of Tamriel_Data assets to the region and towns. The standard version of Ascadian Isles+ does not need to be loaded alongside this plugin, pick one or the other. The stats for the fixes can be found in the main changelog.
+
+Edits:
+Suran 6,-7
+	Added Silt Strider wall decal
+	Added green shroom tables along the road
+	Added blue lichen to some rocks
+	
+Suran 6,-6
+	Changed Earthly Delights banner
+	Added wall decals
+	Added green shroom tables along the road
+	Added blue lichen to some rocks	
+	Replaced windows on the outfitter & trader
+	
+Suran, Guard Tower
+	Replaced some furn_de_tapestry_10 with T_De_Furn_TapestryHla_01
+	Replaced de_p with de_m furniture
+	
+Suran, Desele's House of Earthly Delights
+	Added Llotham
+	
+Suran, Ranosa Gilvayn: Outfitter
+	Added iron javelines for sale
+	Replaced windows
+	
+Suran, Garothmuk gro-Muzgub: Smith
+	Added Dreugh greaves for sale
+	Replaced bonemold crate with chuzuei bonemold crate
+	Added Orcish crossbow for sale
+	Garothmuk now wears a TD shirt
+	
+Suran, Goldyn Belaram: Pawnbroker
+	Added Templar axe for sale
+	Added T_De_Cm_HatTelv_01 for sale
+	
+Suran, Verara Rendo: Clothier
+	Replaced de_p with de_m furniture
+	Added TD Dunmer clothes for sale
+	
+Suran, Ralds Oril: Trader
+	Replaced windows
+	Replaced de_p with de_m furniture
+	Added Heavy Chitin for sale
+	Added Wood staff for sale
+	Added Stoneware clutter
+	Hung some TD tapestries
+	
+Suran, Suran Tradehouse
+	movisa andas is now wearing engraved Chuzei
