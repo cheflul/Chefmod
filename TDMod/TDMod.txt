@@ -335,6 +335,10 @@ random_de_weapon - Added:
 	T_De_Chitin_Longsword_01
 	T_De_Corkbulb_Staff_01/02
 	T_De_Wooden_Staff_01/02
+- Changelog consistency broken!!!
+- Added T_Mw_Random_ScrollsLvl** to random_scroll_all
+- Added T_Cyr_Random_Potion** to l_m_potion
+- Added T_Mw_Lvl_LootBandit** to random_bandit**
 -------------------------------------- Leveled Creatures ------------------------------------------
 h2o_all_lev** - Added: 
 	T_Mw_Fau_BlindSlauFi_01 (lvl 3)

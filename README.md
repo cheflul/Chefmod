@@ -6,4 +6,6 @@ Tamriel Data Items and Creatures integrated into vanilla lists.
 -Hard-Heart wears his armour makes Fighter's Guild boss Hard-Heart wear his armour. Cool!
 -Powerful Moon and Star adds a 0 to the passive added from this artifact.
 -Weaker Supply chests nerfs guild chests to reduce potions, repairs, interventions and disease curing.
--TDMod Legacy contains all of the NPC, exterior and interior placements of TD items that would eventually be covered by VV+
+-Arrille Nerf replaces journeyman items, chitin, bonemold and steel from Arrille's Tradehouse. Without TD or Dark Brotherhood attacks chitin was the 2nd strongest light armour in the game, and it's soooo cheap.
+-Valuable Hides buffs the cost of all hides. A Kagouti will fuck you up and all you get in return is a bit of exp, a repair bill and a 2G hide. Hunting is now worth your time.
+-More Damaged Attributes adds damage attribute effects to alcohol, spoiled potions and traps, and overhauls spoiled potions to not be immediately obvious to non alchemists. It also adds and levels all restore attribute potions to the levelled list.
