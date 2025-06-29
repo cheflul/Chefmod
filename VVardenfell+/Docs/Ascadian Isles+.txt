@@ -1,20 +1,21 @@
 Ascadian Isles+ wilderness plugin
-This is changelog for the exterior errors throughout the Ascadian Isles region. All cells edited are highlighted with green lines on the coverage map. Settlements are optionally covered in separate plugins if you downloaded the modular version. 
 
-Last edited: June 25th 2025
+This is the changelog for the exterior errors throughout the wilderness cells of the Ascadian Isles region. All cells edited are highlighted with green lines on the coverage map. Settlements are optionally covered in separate plugins if you downloaded the modular version. 
+
+Last edited: June 28th 2025
 
 Wilderness plugin stats:
-	Cells edited: 60
-	Terrain errors fixed: 256
-	Texture seams covered: 180
-	Bleeding objects fixed: 447
-	Floating objects fixed: 181
-	Objects beneath geometry removed/raised: 58
+	Cells edited: 63
+	Terrain errors fixed: 263
+	Texture seams covered: 190
+	Bleeding objects fixed: 464
+	Floating objects fixed: 182
+	Objects beneath geometry removed/raised: 59
 	
 Vivec plugin stats:
 	Cells edited: 6 (3,-9 / 2,-10 / 3,-10 / 5,-10 / 2,-11 / 3,-14)
-	Terrain errors fixed: 20
-	Texture seams covered: 4
+	Terrain errors fixed: 23
+	Texture seams covered: 9
 	Bleeding objects fixed: 22
 	Floating objects fixed: 17
 	Objects beneath geometry removed/raised: 1
