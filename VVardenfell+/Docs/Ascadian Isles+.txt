@@ -1,16 +1,14 @@
-Ascadian Isles+ wilderness plugin
+Ascadian Isles+
 
-This is the changelog for the exterior errors throughout the wilderness cells of the Ascadian Isles region. All cells edited are highlighted with green lines on the coverage map. Settlements are optionally covered in separate plugins if you downloaded the modular version. 
-
-Last edited: June 28th 2025
+This is the changelog for the exterior errors throughout the wilderness cells of the Ascadian Isles region. All cells edited are highlighted with green or blue lines on the coverage map. Wilderness and major settlements are split into separate plugins in this modular version. A merged plugin can be found on GitHub https://github.com/cheflul/Chefmod
 
 Wilderness plugin stats:
-	Cells edited: 63
-	Terrain errors fixed: 263
-	Texture seams covered: 190
-	Bleeding objects fixed: 464
-	Floating objects fixed: 182
-	Objects beneath geometry removed/raised: 59
+	Cells edited: 70
+	Terrain errors fixed: 287
+	Texture seams covered: 229
+	Bleeding objects fixed: 527
+	Floating objects fixed: 207
+	Objects beneath geometry removed/raised: 66
 	
 Vivec plugin stats:
 	Cells edited: 6 (3,-9 / 2,-10 / 3,-10 / 5,-10 / 2,-11 / 3,-14)
@@ -21,7 +19,7 @@ Vivec plugin stats:
 	Objects beneath geometry removed/raised: 1
 
 Suran plugin stats:
-	Cells edited: 2 (both)
+	Cells edited: both
 	Terrain errors fixed: 26
 	Texture seams covered: 5
 	Bleeding objects fixed: 14
@@ -36,16 +34,15 @@ Dren Plantation plugin stats:
 	Floating objects fixed: 7
 	
 Pelagiad plugin stats:
-	Cells edited: 2 (both)
+	Cells edited: both
 	Terrain errors fixed: 9
 	Texture seams covered: 9
 	Bleeding objects fixed: 13
 	Floating objects fixed: 8
 	
 Ebonheart plugin stats:
-	Cells edited: 
-	Terrain errors fixed: 
-	Texture seams covered: 
-	Bleeding objects fixed: 
-	Floating objects fixed: 
-	Objects beneath geometry removed/raised: 
+	Cells edited: both
+	Terrain errors fixed: 24
+	Texture seams covered: 4
+	Bleeding objects fixed: 14
+	Floating objects fixed: 7

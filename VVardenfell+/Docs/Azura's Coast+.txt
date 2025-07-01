@@ -4,7 +4,7 @@ This is changelog for only the fixes of exterior errors throughout the region. M
 Last updated: November 12th 2022 :(
 
 Wilderness plugin stats:
-	Cells edited: 28 
+	Cells edited: 29 
 	Terrain errors fixed: 132
 	Texture seams fixed: 85
 	Bleeding objects fixed: 111
