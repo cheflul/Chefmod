@@ -11,12 +11,12 @@ Wilderness plugin stats:
 	Objects beneath geometry removed/raised: 15
 	
 Seyda Neen plugin stats:
-	Cells edited: 
-	Terrain errors fixed: 
-	Texture seams covered: 
-	Bleeding objects fixed: 
-	Floating objects fixed: 
-	Objects beneath geometry removed/raised: 
+	Cells edited: 3: (-2,-9), (-2,-10), (-1,-9)
+	Terrain errors fixed: 18
+	Texture seams covered: 21
+	Bleeding objects fixed: 34
+	Floating objects fixed: 1
+	Objects beneath geometry removed/raised: 4
 
 Hla Oad plugin stats:
 	Cells edited: 
