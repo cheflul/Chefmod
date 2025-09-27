@@ -3,12 +3,12 @@ Bitter Coast+
 This is the changelog for the exterior errors throughout the wilderness cells of the Bitter Coast region. All cells edited are highlighted with purple or blue lines on the coverage map. Wilderness and major settlements are split into separate plugins in this modular version. (pending) A merged plugin can be found on GitHub https://github.com/cheflul/Chefmod
 
 Wilderness plugin stats:
-	Cells edited: 25
-	Terrain errors fixed: 69
-	Texture seams covered: 62
-	Bleeding objects fixed: 105
-	Floating objects fixed: 68
-	Objects beneath geometry removed/raised: 26
+	Cells edited: 36
+	Terrain errors fixed: 100
+	Texture seams covered: 85
+	Bleeding objects fixed: 144
+	Floating objects fixed: 109
+	Objects beneath geometry removed/raised: 39
 	
 Seyda Neen plugin stats:
 	Cells edited: 3: (-2,-9), (-2,-10), (-1,-9)
