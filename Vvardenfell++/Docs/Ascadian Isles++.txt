@@ -1,8 +1,18 @@
 Ascadian Isles++
 
-These optional plugins are based off of the original Vvardenfell+ plugins, containing all of the same edits and fixes, and should not be loaded together. This mod adds select flora and objects from Tamriel_Data to the wilderness, cities and dungeons.
+This mod is an upgraded version of the vanilla Ascadian Isles+ using assets from Tamriel_Data. It aims to be a minor region overhaul that still remains vanilla design friendly, as well as adding certain common items from the Mainland that might feel missing after playing a lot of Tamriel Rebuilt. The ++ series will be more intrusive with interior edits on top of the region overhaul, and potentially less compatible than vanilla+ as a result.
 
-Suran Edits:
+Wilderness Plugin Edits:
+	General
+		Added green shroom tables
+		Added blue lichen
+		Added roses
+		
+	TBD cell x,y
+		bottom text
+		
+
+Suran Plugin Edits:
 	Suran 6,-7
 		Added Silt Strider wall decal
 		Added green shroom tables along the road
@@ -50,3 +60,34 @@ Suran Edits:
 		
 	Suran, Suran Tradehouse
 		movisa andas is now wearing engraved Chuzei
+		
+Pelagiad Plugin Edits:
+	Pelagiad 0,-7
+		stuff
+		
+	Pelagiad 0,-8
+		more stuff
+		
+Dren Plugin Edits:
+	Dren Plantation
+		awfeafn
+		
+Ebonheart Plugin Edits:
+	I might not do anything here
+	
+There will be no Ascadian Isles++ Vivec, the level of changes for that would be out of scope for this little region overhaul, and there are many other choices if you want a vivec mod that you could play. Pickles and I might do our own Vivec++ in the distant future but I wouldn't count on it.
+
+Dungeon Plugin Edits:
+	Ulummusa
+		Gave Godrod Hairy-Breeks T_Nor_Ringmail_Boots_02
+		Added red jug
+		Added kagouti meat to the fire
+		
+	Lleran Ancestral Tomb
+		Added an alcove hall tile with a chitin javeline
+		Added secret potion of insight
+		Replaced 2 altars with TD altars
+	
+	Shurdan-Raplay Egg Mine
+		Added OAAB kwama stuff
+		Added bloatspore

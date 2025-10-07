@@ -27,12 +27,10 @@ Hla Oad plugin stats:
 	Objects beneath geometry removed/raised: 1
 
 Odai Plateau plugin stats:
-	Cells edited: 
-	Terrain errors fixed: 
-	Texture seams covered: 
-	Bleeding objects fixed: 
-	Floating objects fixed: 
-	Objects beneath geometry removed/raised: 
+	Cells edited: 1 (-5,-5)
+	Terrain errors fixed: 9
+	Texture seams covered: 11
+	Bleeding objects fixed: 9
 
 Gnaar Mok plugin stats:
 	Cells edited: 

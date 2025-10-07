@@ -4,7 +4,7 @@ This is the changelog for the exterior errors throughout the wilderness cells of
 
 Wilderness plugin stats:
 	Cells edited: 70
-	Terrain errors fixed: 287
+	Terrain errors fixed: 288
 	Texture seams covered: 229
 	Bleeding objects fixed: 527
 	Floating objects fixed: 207
