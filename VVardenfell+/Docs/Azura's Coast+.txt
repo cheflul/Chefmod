@@ -1,15 +1,15 @@
 ACMod - Azura's Coast Fixed
 This is changelog for only the fixes of exterior errors throughout the region. Most cells are covered, unless they fit better in a seperate Vvardenfell+ plugin, or in the rare case of no errors.
 
-Last updated: November 12th 2022 :(
+Last updated: January 10th 2026
 
 Wilderness plugin stats:
-	Cells edited: 29 
-	Terrain errors fixed: 132
+	Cells edited: 37 
+	Terrain errors fixed: 156
 	Texture seams fixed: 85
-	Bleeding objects fixed: 111
-	Floating objects fixed: 38
-	Objects beneath terrain removed/raised: 20
+	Bleeding objects fixed: 112
+	Floating objects fixed: 52
+	Objects beneath terrain removed/raised: 26
 
 Tel Branora plugin stats:
 	Cells edited:
